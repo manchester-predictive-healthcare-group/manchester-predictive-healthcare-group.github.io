@@ -1,0 +1,28 @@
+```{=html}
+<%
+const maxItems = 5;
+const today = new Date();
+today.setHours(0, 0, 0, 0);
+
+const visibleItems = items.filter(item => {
+  if (!item['expires']) return true;
+  return new Date(item['expires']) >= today;
+});
+
+const limitedItems = visibleItems.slice(0, maxItems);
+%>
+
+<div class="list quarto-listing-default">
+  <% for (const item of limitedItems) { %>
+  <div class="quarto-post image-right" <%- metadataAttrs(item) %>>
+    <div class="body">
+      <h3 class="no-anchor listing-title">
+        <a href="<%- item.path %>"><%- item.title %></a>
+      </h3>
+      <div class="listing-date"><%- item.date %></div>
+    </div>
+  </div>
+  <% } %>
+</div>
+
+```

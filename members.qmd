@@ -1,0 +1,7 @@
+---
+title: "Lab Members"
+listing:
+  contents: members
+  type: grid
+  fields: [image, title, subtitle]
+---

@@ -1,0 +1,8 @@
+---
+title: "News 4"
+image: profile-pic.jpg
+date: 2026-01-04
+categories: [News]
+---
+
+News 4

@@ -1,0 +1,8 @@
+---
+title: "News 1"
+image: profile-pic.jpg
+date: 2026-01-01
+categories: [News,Funding]
+---
+
+News 1

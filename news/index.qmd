@@ -1,0 +1,12 @@
+---
+title: "Lab News"
+page-layout: full
+format: html
+listing:
+  contents:
+    - "./*/index.qmd"
+  template: gallery.ejs # This is a custom template to allow for "filtering out" expired news (e.g. job postings)
+  sort: "date desc"
+  categories: true
+  #max-items: 5 # DO NOT use this, instead, look inside `gallery.ejs` and change the `maxItems` constant
+---
