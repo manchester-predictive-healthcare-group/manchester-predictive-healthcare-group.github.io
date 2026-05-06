@@ -8,18 +8,34 @@ const visibleItems = items.filter(item => {
   if (!item['expires']) return true;
   return new Date(item['expires']) >= today;
 });
-
-const limitedItems = visibleItems.slice(0, maxItems);
 %>
 
 <div class="list quarto-listing-default">
-  <% for (const item of limitedItems) { %>
-  <div class="quarto-post image-right" <%- metadataAttrs(item) %>>
+  <% for (const item of visibleItems) { %>
+    <div class="quarto-post image-right" 
+      <%= item.activeAttributes %>
+      data-index="<%= item.index %>" 
+      data-categories="<%= item.categories ? item.categories.map(c => btoa(c)).join(',') : '' %>">
     <div class="body">
+      <!-- Title -->
       <h3 class="no-anchor listing-title">
         <a href="<%- item.path %>"><%- item.title %></a>
       </h3>
+      
+      <!-- Date -->
       <div class="listing-date"><%- item.date %></div>
+      
+      <!-- Hidden categories still allow the sidebar to function -->
+      <div style="display: none;" class="listing-categories">
+        <% if (item.categories) { %>
+          <% for (const category of item.categories) { %>
+            <div class="listing-category" onclick="window.quartoListingCategory('<%=btoa(category)%>'); return false;">
+              <%= category %>
+            </div>
+          <% } %>
+        <% } %>
+      </div>
+
     </div>
   </div>
   <% } %>
