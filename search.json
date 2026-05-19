@@ -105,18 +105,18 @@
     "text": "News 2"
   },
   {
+    "objectID": "book/index.html",
+    "href": "book/index.html",
+    "title": "Lab Best Practices",
+    "section": "",
+    "text": "Under Construction\n&lt;–iframe src=“https://yourlab.github.io/best-practices-book/” width=“100%” height=“800px” style=“border:none;”&gt;"
+  },
+  {
     "objectID": "members.html",
     "href": "members.html",
     "title": "Lab Members",
     "section": "",
     "text": "Alexander Pate\n\n\nResearch Fellow\n\n\n\n\n\n\n\n\n\n\n\n\nChantelle Cornett\n\n\nJob Title\n\n\n\n\n\n\n\n\n\n\n\n\nChristina Diomatari\n\n\nPhD Student\n\n\n\n\n\n\n\n\n\n\n\n\nDavid A. Jenkins\n\n\nLecturer in Health Data Sciences\n\n\n\n\n\n\n\n\n\n\n\n\nFangyuan Zhang\n\n\nResearch Associate\n\n\n\n\n\n\n\n\n\n\n\n\nGlen Martin\n\n\nLecturer in Health Data Sciences\n\n\n\n\n\n\n\n\n\n\n\n\nJamie Paterson\n\n\nResearch Associate (Medical Statistics)\n\n\n\n\n\n\n\n\n\n\n\n\nKritchavat Ploddi\n\n\nPhD Student\n\n\n\n\n\n\n\n\n\n\n\n\nLana Lai\n\n\nResearch Associate\n\n\n\n\n\n\n\n\n\n\n\n\nMatthew Sperrin\n\n\nProfessor in Health Data Sciences\n\n\n\n\n\n\n\n\n\n\n\n\nMiriam Ngarenga\n\n\nPhD Student\n\n\n\n\n\n\n\n\n\n\n\n\nMolly Wells\n\n\nResearch Associate (Medical Statistics)\n\n\n\n\n\n\n\n\n\n\n\n\nPedro Henrique da Costa Avelar\n\n\nPostdoctoral Research Associate in Causal Machine Learning\n\n\n\n\n\n\n\n\n\n\n\n\nSamantha Pacynko\n\n\nResearch Assistant\n\n\n\n\n\n\n\n\n\n\n\n\nSiân Bladon\n\n\nLecturer in Health Data Sciences\n\n\n\n\n\n\n\n\n\n\n\n\nSteph Riley\n\n\nResearch Associate in Causal Inference\n\n\n\n\n\n\n\n\n\n\n\n\nVictoria Palin\n\n\nLecturer in Maternal and Fetal Health\n\n\n\n\n\n\n\n\n\n\n\n\nYusuf Yildiz\n\n\nPhD Student\n\n\n\n\n\n\n\n\n\n\n\n\nZiyi Ding\n\n\nPhD Student\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "lab-book.html",
-    "href": "lab-book.html",
-    "title": "Lab Best Practices",
-    "section": "",
-    "text": "Under Construction\n&lt;–iframe src=“https://yourlab.github.io/best-practices-book/” width=“100%” height=“800px” style=“border:none;”&gt;"
   },
   {
     "objectID": "news/2026-01-04-news4/index.html",
