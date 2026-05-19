@@ -7,7 +7,7 @@ about:
   links:
     - icon: mortarboard
       text: ORCID
-      href: https://orcid.org/0000-0000-0000-0000
+      href: https://orcid.org/0000-0003-2489-3969
 ---
 
 ### Biography
@@ -22,7 +22,7 @@ Hello
 <script>
   document.addEventListener("DOMContentLoaded", function() {
     // Pass your specific ORCID to your external function
-    loadOrcidPublications("0000-0000-0000-0000", "publications-list");
+    loadOrcidPublications("0000-0003-2489-3969", "publications-list");
   });
 </script>
 
