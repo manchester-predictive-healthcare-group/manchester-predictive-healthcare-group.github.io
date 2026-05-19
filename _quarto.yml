@@ -12,7 +12,7 @@ website:
         text: News
       - href: members.qmd
         text: Members
-      - href: book/index.html
+      - href: book/
         text: Lab Book
 
 format:
