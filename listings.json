@@ -1,31 +1,5 @@
 [
   {
-    "listing": "/news/index.html",
-    "items": [
-      "/news/2026-01-06-news6/index.html",
-      "/news/2026-01-05-job1/index.html",
-      "/news/2026-01-05-news5/index.html",
-      "/news/2026-01-06-job2/index.html",
-      "/news/2026-01-04-news4/index.html",
-      "/news/2026-01-03-news3/index.html",
-      "/news/2026-01-02-news2/index.html",
-      "/news/2026-01-01-news1/index.html"
-    ]
-  },
-  {
-    "listing": "/index.html",
-    "items": [
-      "/news/2026-01-06-news6/index.html",
-      "/news/2026-01-05-job1/index.html",
-      "/news/2026-01-05-news5/index.html",
-      "/news/2026-01-06-job2/index.html",
-      "/news/2026-01-04-news4/index.html",
-      "/news/2026-01-03-news3/index.html",
-      "/news/2026-01-02-news2/index.html",
-      "/news/2026-01-01-news1/index.html"
-    ]
-  },
-  {
     "listing": "/members.html",
     "items": [
       "/members/alexpate/index.html",
@@ -45,10 +19,35 @@
       "/members/samanthapacynko/index.html",
       "/members/sianbladdon/index.html",
       "/members/stephriley/index.html",
-      "/members/victoriapalin/index.html",
       "/members/yusufyildiz/index.html",
       "/members/ziyiding/index.html",
       "/past-members/someone/index.html"
+    ]
+  },
+  {
+    "listing": "/index.html",
+    "items": [
+      "/news/2026-01-06-news6/index.html",
+      "/news/2026-01-05-job1/index.html",
+      "/news/2026-01-05-news5/index.html",
+      "/news/2026-01-06-job2/index.html",
+      "/news/2026-01-04-news4/index.html",
+      "/news/2026-01-03-news3/index.html",
+      "/news/2026-01-02-news2/index.html",
+      "/news/2026-01-01-news1/index.html"
+    ]
+  },
+  {
+    "listing": "/news/index.html",
+    "items": [
+      "/news/2026-01-06-news6/index.html",
+      "/news/2026-01-05-job1/index.html",
+      "/news/2026-01-05-news5/index.html",
+      "/news/2026-01-06-job2/index.html",
+      "/news/2026-01-04-news4/index.html",
+      "/news/2026-01-03-news3/index.html",
+      "/news/2026-01-02-news2/index.html",
+      "/news/2026-01-01-news1/index.html"
     ]
   }
 ]
