@@ -1,0 +1,28 @@
+---
+title: "Victoria Palin"
+subtitle: "Lecturer in Maternal and Fetal Health"
+image: https://avatars.githubusercontent.com/u/0000000?v=4&size=64
+about:
+  template: jolla
+  links:
+    - icon: mortarboard
+      text: ORCID
+      href: https://orcid.org/0000-0002-0851-8619
+---
+
+### Biography
+Hello
+
+### Publications
+::: {#publications-list}
+*Loading publications from ORCID...*
+:::
+
+<script src="/js/orcid.js"></script>
+<script>
+  document.addEventListener("DOMContentLoaded", function() {
+    // Pass your specific ORCID to your external function
+    loadOrcidPublications("0000-0002-0851-8619", "publications-list");
+  });
+</script>
+

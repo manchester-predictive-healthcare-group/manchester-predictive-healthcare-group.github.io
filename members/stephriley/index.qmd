@@ -1,0 +1,35 @@
+---
+title: "Steph Riley"
+subtitle: "Research Associate in Causal Inference"
+image: https://avatars.githubusercontent.com/u/91275402?v=4&size=64
+about:
+  template: jolla
+  links:
+    - icon: mortarboard
+      text: ORCID
+      href: https://orcid.org/0000-0002-7429-6655
+    - icon: mortarboard
+      text: UoM Research Explorer
+      href: https://research.manchester.ac.uk/en/persons/stephanie-riley/
+    - icon: mortarboard
+      text: Google Scholar
+      href: https://scholar.google.com/citations?user=thkDQfUAAAAJ
+
+---
+
+### Biography
+Steph’s research interests are in causal inference methods to address generalisability and transportability problems in treatment effect estimation and prediction models, to support fair and equitable healthcare. She also enjoys survival analysis, particularly competing risks and multistate models.  
+
+### Publications
+::: {#publications-list}
+*Loading publications from ORCID...*
+:::
+
+<script src="/js/orcid.js"></script>
+<script>
+  document.addEventListener("DOMContentLoaded", function() {
+    // Pass your specific ORCID to your external function
+    loadOrcidPublications("0000-0002-7429-6655", "publications-list");
+  });
+</script>
+
