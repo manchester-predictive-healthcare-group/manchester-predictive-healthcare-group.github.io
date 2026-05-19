@@ -1,12 +1,5 @@
 [
   {
-    "objectID": "members/chantellecornett/index.html",
-    "href": "members/chantellecornett/index.html",
-    "title": "Chantelle Cornett",
-    "section": "",
-    "text": "Biography\nHello\n\n\nPublications\n\nLoading publications from ORCID…"
-  },
-  {
     "objectID": "members/yusufyildiz/index.html",
     "href": "members/yusufyildiz/index.html",
     "title": "Yusuf Yildiz",
@@ -14,25 +7,11 @@
     "text": "Biography\nHello\n\n\nPublications\n\nLoading publications from ORCID…"
   },
   {
-    "objectID": "members/kritchavatploddi/index.html",
-    "href": "members/kritchavatploddi/index.html",
-    "title": "Kritchavat Ploddi",
+    "objectID": "members/alexpate/index.html",
+    "href": "members/alexpate/index.html",
+    "title": "Alexander Pate",
     "section": "",
-    "text": "Biography\nHello\n\n\nPublications\n\nLoading publications from ORCID…"
-  },
-  {
-    "objectID": "members/samanthapacynko/index.html",
-    "href": "members/samanthapacynko/index.html",
-    "title": "Samantha Pacynko",
-    "section": "",
-    "text": "Biography\nHello\n\n\nPublications\n\nLoading publications from ORCID…"
-  },
-  {
-    "objectID": "members/lanalai/index.html",
-    "href": "members/lanalai/index.html",
-    "title": "Lana Lai",
-    "section": "",
-    "text": "Biography\nHello\n\n\nPublications\n\nLoading publications from ORCID…"
+    "text": "Biography\nAlex’s interests centre around clinical prediction modelling, including quantifying uncertainty, model evaluation, multi-outcome prediction and prediction-under-intervention; as well as the design of simulation studies, and developing software to translate statistical methodology into usable outputs.\n\n\nPublications\n\nLoading publications from ORCID…"
   },
   {
     "objectID": "members/mattsperrin/index.html",
@@ -42,23 +21,23 @@
     "text": "Biography\nHello\n\n\nPublications\n\nLoading publications from ORCID…"
   },
   {
-    "objectID": "members/stephriley/index.html",
-    "href": "members/stephriley/index.html",
-    "title": "Steph Riley",
+    "objectID": "members/miriamngarega/index.html",
+    "href": "members/miriamngarega/index.html",
+    "title": "Miriam Ngarenga",
     "section": "",
-    "text": "Biography\nSteph’s research interests are in causal inference methods to address generalisability and transportability problems in treatment effect estimation and prediction models, to support fair and equitable healthcare. She also enjoys survival analysis, particularly competing risks and multistate models.\n\n\nPublications\n\nLoading publications from ORCID…"
+    "text": "Biography\nHello\n\n\nPublications\n\nLoading publications from ORCID…"
   },
   {
-    "objectID": "members/sianbladdon/index.html",
-    "href": "members/sianbladdon/index.html",
-    "title": "Siân Bladon",
+    "objectID": "members/chantellecornett/index.html",
+    "href": "members/chantellecornett/index.html",
+    "title": "Chantelle Cornett",
     "section": "",
-    "text": "Biography\nI am an experienced health data scientist currently working as a Lecturer in Health Data Sciences within the Division of Informatics, Imaging and Data Science at the University of Manchester. I previously worked as a PDRA on the CONNECT project, developing a clinical prediction model to predict the risk of relapse in people with psychosis using data collected through wearable devices and smartphones. My current research interests focus on addressing the challenges of incorporating high-frequency data (e.g. from wearable devices) into clinical prediction models. I teach primarily on the MSc Health Data Science and Health Informatics programmes, contributing to teaching on statistics, data visualisation, data linkage and digital transformation.\n\n\nPublications\n\nLoading publications from ORCID…"
+    "text": "Biography\nHello\n\n\nPublications\n\nLoading publications from ORCID…"
   },
   {
-    "objectID": "members/davidjenkins/index.html",
-    "href": "members/davidjenkins/index.html",
-    "title": "David A. Jenkins",
+    "objectID": "members/mollywells/index.html",
+    "href": "members/mollywells/index.html",
+    "title": "Molly Wells",
     "section": "",
     "text": "Biography\nHello\n\n\nPublications\n\nLoading publications from ORCID…"
   },
@@ -70,11 +49,32 @@
     "text": "Biography\nHello\n\n\nPublications\n\nLoading publications from ORCID…"
   },
   {
-    "objectID": "news/2026-01-02-news2/index.html",
-    "href": "news/2026-01-02-news2/index.html",
-    "title": "News 2",
+    "objectID": "members/ziyiding/index.html",
+    "href": "members/ziyiding/index.html",
+    "title": "Ziyi Ding",
     "section": "",
-    "text": "News 2"
+    "text": "Biography\nHello\n\n\nPublications\n\nLoading publications from ORCID…"
+  },
+  {
+    "objectID": "members/fangyuanzhang/index.html",
+    "href": "members/fangyuanzhang/index.html",
+    "title": "Fangyuan Zhang",
+    "section": "",
+    "text": "Biography\nHello\n\n\nPublications\n\nLoading publications from ORCID…"
+  },
+  {
+    "objectID": "members/lanalai/index.html",
+    "href": "members/lanalai/index.html",
+    "title": "Lana Lai",
+    "section": "",
+    "text": "Biography\nHello\n\n\nPublications\n\nLoading publications from ORCID…"
+  },
+  {
+    "objectID": "news/2026-01-01-news1/index.html",
+    "href": "news/2026-01-01-news1/index.html",
+    "title": "News 1",
+    "section": "",
+    "text": "News 1"
   },
   {
     "objectID": "news/2026-01-06-job2/index.html",
@@ -82,13 +82,6 @@
     "title": "Job posting expiring in 2027",
     "section": "",
     "text": "This job posting expires in 2027, and show show up until then."
-  },
-  {
-    "objectID": "news/2026-01-05-job1/index.html",
-    "href": "news/2026-01-05-job1/index.html",
-    "title": "Expired Job Posting",
-    "section": "",
-    "text": "This job posting should be expired and shouldn’t show up."
   },
   {
     "objectID": "news/2026-01-06-news6/index.html",
@@ -105,11 +98,25 @@
     "text": "News 6"
   },
   {
+    "objectID": "news/2026-01-02-news2/index.html",
+    "href": "news/2026-01-02-news2/index.html",
+    "title": "News 2",
+    "section": "",
+    "text": "News 2"
+  },
+  {
     "objectID": "members.html",
     "href": "members.html",
     "title": "Lab Members",
     "section": "",
     "text": "Alexander Pate\n\n\nResearch Fellow\n\n\n\n\n\n\n\n\n\n\n\n\nChantelle Cornett\n\n\nJob Title\n\n\n\n\n\n\n\n\n\n\n\n\nChristina Diomatari\n\n\nPhD Student\n\n\n\n\n\n\n\n\n\n\n\n\nDavid A. Jenkins\n\n\nLecturer in Health Data Sciences\n\n\n\n\n\n\n\n\n\n\n\n\nFangyuan Zhang\n\n\nResearch Associate\n\n\n\n\n\n\n\n\n\n\n\n\nGlen Martin\n\n\nLecturer in Health Data Sciences\n\n\n\n\n\n\n\n\n\n\n\n\nJamie Paterson\n\n\nResearch Associate (Medical Statistics)\n\n\n\n\n\n\n\n\n\n\n\n\nKritchavat Ploddi\n\n\nPhD Student\n\n\n\n\n\n\n\n\n\n\n\n\nLana Lai\n\n\nResearch Associate\n\n\n\n\n\n\n\n\n\n\n\n\nMatthew Sperrin\n\n\nProfessor in Health Data Sciences\n\n\n\n\n\n\n\n\n\n\n\n\nMiriam Ngarenga\n\n\nPhD Student\n\n\n\n\n\n\n\n\n\n\n\n\nMolly Wells\n\n\nResearch Associate (Medical Statistics)\n\n\n\n\n\n\n\n\n\n\n\n\nPedro Henrique da Costa Avelar\n\n\nPostdoctoral Research Associate in Causal Machine Learning\n\n\n\n\n\n\n\n\n\n\n\n\nSamantha Pacynko\n\n\nResearch Assistant\n\n\n\n\n\n\n\n\n\n\n\n\nSiân Bladon\n\n\nLecturer in Health Data Sciences\n\n\n\n\n\n\n\n\n\n\n\n\nSteph Riley\n\n\nResearch Associate in Causal Inference\n\n\n\n\n\n\n\n\n\n\n\n\nVictoria Palin\n\n\nLecturer in Maternal and Fetal Health\n\n\n\n\n\n\n\n\n\n\n\n\nYusuf Yildiz\n\n\nPhD Student\n\n\n\n\n\n\n\n\n\n\n\n\nZiyi Ding\n\n\nPhD Student\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "news/2026-01-04-news4/index.html",
+    "href": "news/2026-01-04-news4/index.html",
+    "title": "News 4",
+    "section": "",
+    "text": "News 4"
   },
   {
     "objectID": "news/2026-01-05-news5/index.html",
@@ -126,20 +133,6 @@
     "text": "News 6\n      \n      \n      \n      Jan 6, 2026\n      \n      \n      \n        \n          \n            \n              News\n            \n          \n        \n      \n\n    \n  \n  \n    \n    \n      \n      \n        News 5\n      \n      \n      \n      Jan 5, 2026\n      \n      \n      \n        \n          \n            \n              News\n            \n          \n        \n      \n\n    \n  \n  \n    \n    \n      \n      \n        Job posting expiring in 2027\n      \n      \n      \n      Jan 5, 2026\n      \n      \n      \n        \n          \n            \n              Jobs\n            \n          \n        \n      \n\n    \n  \n  \n    \n    \n      \n      \n        News 4\n      \n      \n      \n      Jan 4, 2026\n      \n      \n      \n        \n          \n            \n              News\n            \n          \n        \n      \n\n    \n  \n  \n    \n    \n      \n      \n        News 3\n      \n      \n      \n      Jan 3, 2026\n      \n      \n      \n        \n          \n            \n              News\n            \n          \n            \n              Impact\n            \n          \n        \n      \n\n    \n  \n  \n    \n    \n      \n      \n        News 2\n      \n      \n      \n      Jan 2, 2026\n      \n      \n      \n        \n          \n            \n              News\n            \n          \n        \n      \n\n    \n  \n  \n    \n    \n      \n      \n        News 1\n      \n      \n      \n      Jan 1, 2026\n      \n      \n      \n        \n          \n            \n              News\n            \n          \n            \n              Funding\n            \n          \n        \n      \n\n    \n  \n  \n\n\nNo matching items"
   },
   {
-    "objectID": "news/2026-01-04-news4/index.html",
-    "href": "news/2026-01-04-news4/index.html",
-    "title": "News 4",
-    "section": "",
-    "text": "News 4"
-  },
-  {
-    "objectID": "news/2026-01-01-news1/index.html",
-    "href": "news/2026-01-01-news1/index.html",
-    "title": "News 1",
-    "section": "",
-    "text": "News 1"
-  },
-  {
     "objectID": "news/2026-01-03-news3/index.html",
     "href": "news/2026-01-03-news3/index.html",
     "title": "News 3",
@@ -147,44 +140,23 @@
     "text": "News 3"
   },
   {
-    "objectID": "members/glenmartin/index.html",
-    "href": "members/glenmartin/index.html",
-    "title": "Glen Martin",
+    "objectID": "news/2026-01-05-job1/index.html",
+    "href": "news/2026-01-05-job1/index.html",
+    "title": "Expired Job Posting",
     "section": "",
-    "text": "Biography\nHello\n\n\nPublications\n\nLoading publications from ORCID…"
+    "text": "This job posting should be expired and shouldn’t show up."
   },
   {
-    "objectID": "members/alexpate/index.html",
-    "href": "members/alexpate/index.html",
-    "title": "Alexander Pate",
+    "objectID": "members/phcavelar/index.html",
+    "href": "members/phcavelar/index.html",
+    "title": "Pedro Henrique da Costa Avelar",
     "section": "",
-    "text": "Biography\nAlex’s interests centre around clinical prediction modelling, including quantifying uncertainty, model evaluation, multi-outcome prediction and prediction-under-intervention; as well as the design of simulation studies, and developing software to translate statistical methodology into usable outputs.\n\n\nPublications\n\nLoading publications from ORCID…"
+    "text": "Biography\nPedro is interested in developing causal representation learning and neuro-symbolic methods to improve the generalisability, fairness, and interpretability of medical AI. His past experience includes using Graph Neural Networks and Transformers for symbolic problems and computer vision, multi-omics integration and prior-knowledge-based omics analysis, and analysing biases in Machine Translation.\n\n\nPublications\n\nLoading publications from ORCID…"
   },
   {
-    "objectID": "members/ziyiding/index.html",
-    "href": "members/ziyiding/index.html",
-    "title": "Ziyi Ding",
-    "section": "",
-    "text": "Biography\nHello\n\n\nPublications\n\nLoading publications from ORCID…"
-  },
-  {
-    "objectID": "members/miriamngarega/index.html",
-    "href": "members/miriamngarega/index.html",
-    "title": "Miriam Ngarenga",
-    "section": "",
-    "text": "Biography\nHello\n\n\nPublications\n\nLoading publications from ORCID…"
-  },
-  {
-    "objectID": "members/mollywells/index.html",
-    "href": "members/mollywells/index.html",
-    "title": "Molly Wells",
-    "section": "",
-    "text": "Biography\nHello\n\n\nPublications\n\nLoading publications from ORCID…"
-  },
-  {
-    "objectID": "members/fangyuanzhang/index.html",
-    "href": "members/fangyuanzhang/index.html",
-    "title": "Fangyuan Zhang",
+    "objectID": "members/kritchavatploddi/index.html",
+    "href": "members/kritchavatploddi/index.html",
+    "title": "Kritchavat Ploddi",
     "section": "",
     "text": "Biography\nHello\n\n\nPublications\n\nLoading publications from ORCID…"
   },
@@ -196,11 +168,25 @@
     "text": "Biography\nHello\n\n\nPublications\n\nLoading publications from ORCID…"
   },
   {
-    "objectID": "members/phcavelar/index.html",
-    "href": "members/phcavelar/index.html",
-    "title": "Pedro Henrique da Costa Avelar",
+    "objectID": "members/samanthapacynko/index.html",
+    "href": "members/samanthapacynko/index.html",
+    "title": "Samantha Pacynko",
     "section": "",
-    "text": "Biography\nPedro is interested in developing causal representation learning and neuro-symbolic methods to improve the generalisability, fairness, and interpretability of medical AI. His past experience includes using Graph Neural Networks and Transformers for symbolic problems and computer vision, multi-omics integration and prior-knowledge-based omics analysis, and analysing biases in Machine Translation.\n\n\nPublications\n\nLoading publications from ORCID…"
+    "text": "Biography\nHello\n\n\nPublications\n\nLoading publications from ORCID…"
+  },
+  {
+    "objectID": "members/davidjenkins/index.html",
+    "href": "members/davidjenkins/index.html",
+    "title": "David A. Jenkins",
+    "section": "",
+    "text": "Biography\nHello\n\n\nPublications\n\nLoading publications from ORCID…"
+  },
+  {
+    "objectID": "members/stephriley/index.html",
+    "href": "members/stephriley/index.html",
+    "title": "Steph Riley",
+    "section": "",
+    "text": "Biography\nSteph’s research interests are in causal inference methods to address generalisability and transportability problems in treatment effect estimation and prediction models, to support fair and equitable healthcare. She also enjoys survival analysis, particularly competing risks and multistate models.\n\n\nPublications\n\nLoading publications from ORCID…"
   },
   {
     "objectID": "members/christinadiomatari/index.html",
@@ -208,5 +194,19 @@
     "title": "Christina Diomatari",
     "section": "",
     "text": "Biography\nHello\n\n\nPublications\n\nLoading publications from ORCID…"
+  },
+  {
+    "objectID": "members/glenmartin/index.html",
+    "href": "members/glenmartin/index.html",
+    "title": "Glen Martin",
+    "section": "",
+    "text": "Biography\nHello\n\n\nPublications\n\nLoading publications from ORCID…"
+  },
+  {
+    "objectID": "members/sianbladdon/index.html",
+    "href": "members/sianbladdon/index.html",
+    "title": "Siân Bladon",
+    "section": "",
+    "text": "Biography\nI am an experienced health data scientist currently working as a Lecturer in Health Data Sciences within the Division of Informatics, Imaging and Data Science at the University of Manchester. I previously worked as a PDRA on the CONNECT project, developing a clinical prediction model to predict the risk of relapse in people with psychosis using data collected through wearable devices and smartphones. My current research interests focus on addressing the challenges of incorporating high-frequency data (e.g. from wearable devices) into clinical prediction models. I teach primarily on the MSc Health Data Science and Health Informatics programmes, contributing to teaching on statistics, data visualisation, data linkage and digital transformation.\n\n\nPublications\n\nLoading publications from ORCID…"
   }
 ]
