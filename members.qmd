@@ -1,8 +1,24 @@
 ---
 title: "Lab Members"
 listing:
-  contents: members
-  type: grid
-  fields: [image, title, subtitle]
-  page-size: 4294967296
+  - id: "members-listing"
+    contents: members
+    type: grid
+    fields: [image, title, subtitle]
+    page-size: 4294967296
+  - id: "past-members-listing"
+    contents: past-members
+    type: grid
+    fields: [title]
+    page-size: 4294967296
 ---
+
+## Current Members
+
+:::{#members-listing}
+:::
+
+## Past Members
+
+:::{#past-members-listing}
+:::

@@ -1,0 +1,23 @@
+---
+title: Manchester Predictive Healthcare Group - One Prediction
+page-layout: full
+format: html
+listing:
+  id: "news-listing"
+  contents: "./news/*/index.qmd"
+  template: news/gallery.ejs # This is a custom template to allow for "filtering out" expired news (e.g. job postings)
+  #type: list
+  sort: "date desc"
+  categories: false
+  page-size: 4
+---
+
+![Group Photo](group-photo.jpg)
+
+Our group is focused on prediction for healthcare.
+
+
+## What's happening recently
+
+:::{#news-listing}
+:::
