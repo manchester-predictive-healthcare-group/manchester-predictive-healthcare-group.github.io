@@ -1,0 +1,6 @@
+---
+title: "Lab Best Practices"
+page-layout: full
+---
+
+<iframe src="https://yourlab.github.io/best-practices-book/" width="100%" height="800px" style="border:none;"></iframe>

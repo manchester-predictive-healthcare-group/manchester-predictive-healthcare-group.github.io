@@ -1,0 +1,8 @@
+---
+title: "Lab Members"
+listing:
+  contents: members
+  type: grid
+  fields: [image, title, subtitle]
+  page-size: 4294967296
+---

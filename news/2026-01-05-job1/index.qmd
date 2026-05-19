@@ -1,0 +1,9 @@
+---
+title: "Expired Job Posting"
+image: profile-pic.jpg
+date: 2026-01-05
+expires: 2026-02-01
+categories: [Jobs]
+---
+
+This job posting should be expired and shouldn't show up.

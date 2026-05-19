@@ -1,0 +1,9 @@
+---
+title: "Job posting expiring in 2027"
+image: profile-pic.jpg
+date: 2026-01-05
+expires: 2027-01-01
+categories: [Jobs]
+---
+
+This job posting expires in 2027, and show show up until then.

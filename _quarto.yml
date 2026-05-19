@@ -1,0 +1,22 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Manchester Predictive Healthcare Group - One Prediction"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: news/
+        text: News
+      - href: members.qmd
+        text: Members
+      - href: book/index.html
+        text: Lab Book
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true

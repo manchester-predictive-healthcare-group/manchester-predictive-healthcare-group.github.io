@@ -1,0 +1,33 @@
+---
+title: "Pedro Henrique da Costa Avelar"
+subtitle: "Postdoctoral Research Associate in Causal Machine Learning"
+image: https://avatars.githubusercontent.com/u/9154669?v=4&size=64
+about:
+  template: jolla
+  links:
+    - icon: mortarboard
+      text: ORCID
+      href: https://orcid.org/0000-0002-0347-7002
+    - icon: mortarboard
+      text: UoM Research Explorer
+      href: https://research.manchester.ac.uk/en/persons/pedrohenrique.dacostaavelar/
+    - icon: mortarboard
+      text: Google Scholar
+      href: https://scholar.google.com/citations?user=2gjos4AAAAAJ
+---
+
+### Biography
+Pedro is interested in developing causal representation learning and neuro-symbolic methods to improve the generalisability, fairness, and interpretability of medical AI. His past experience includes using Graph Neural Networks and Transformers for symbolic problems and computer vision, multi-omics integration and prior-knowledge-based omics analysis, and analysing biases in Machine Translation.
+
+### Publications
+::: {#publications-list}
+*Loading publications from ORCID...*
+:::
+
+<script src="/js/orcid.js"></script>
+<script>
+  document.addEventListener("DOMContentLoaded", function() {
+    // Pass your specific ORCID to your external function
+    loadOrcidPublications("0000-0002-0347-7002", "publications-list");
+  });
+</script>

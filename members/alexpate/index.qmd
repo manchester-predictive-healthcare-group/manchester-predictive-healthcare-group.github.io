@@ -1,0 +1,33 @@
+---
+title: "Alexander Pate"
+subtitle: "Research Fellow"
+image: https://avatars.githubusercontent.com/u/52957704?v=4&size=64
+about:
+  template: jolla
+  links:
+    - icon: mortarboard
+      text: ORCID
+      href: https://orcid.org/0000-0002-0849-3458
+    - icon: mortarboard
+      text: UoM Research Explorer
+      href: https://research.manchester.ac.uk/en/persons/alexander.pate/
+    - icon: mortarboard
+      text: Google Scholar
+      href: https://scholar.google.com/citations?user=rTsdw0EAAAAJ
+---
+
+### Biography
+Alex's interests centre around clinical prediction modelling, including quantifying uncertainty, model evaluation, multi-outcome prediction and prediction-under-intervention; as well as the design of simulation studies, and developing software to translate statistical methodology into usable outputs.
+
+### Publications
+::: {#publications-list}
+*Loading publications from ORCID...*
+:::
+
+<script src="/js/orcid.js"></script>
+<script>
+  document.addEventListener("DOMContentLoaded", function() {
+    // Pass your specific ORCID to your external function
+    loadOrcidPublications("0000-0002-0849-3458", "publications-list");
+  });
+</script>

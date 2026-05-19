@@ -1,0 +1,8 @@
+---
+title: "News 3"
+image: profile-pic.jpg
+date: 2026-01-03
+categories: [News,Impact]
+---
+
+News 3

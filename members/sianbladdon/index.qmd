@@ -1,0 +1,36 @@
+---
+title: "Siân Bladon"
+subtitle: "Lecturer in Health Data Sciences"
+image: https://avatars.githubusercontent.com/u/60200458?v=4&size=64
+about:
+  template: jolla
+  links:
+    - icon: mortarboard
+      text: ORCID
+      href: https://orcid.org/0000-0001-9087-6505
+    - icon: mortarboard
+      text: UoM Research Explorer
+      href: https://research.manchester.ac.uk/en/persons/sian.bladon
+    - icon: mortarboard
+      text: Google Scholar
+      href: https://scholar.google.com/citations?user=L8VKlywAAAAJ
+    - icon: mortarboard
+      text: LinkedIn
+      href: https://www.linkedin.com/in/si%C3%A2n-bladon-2b324a61/
+---
+
+### Biography
+I am an experienced health data scientist currently working as a Lecturer in Health Data Sciences within the Division of Informatics, Imaging and Data Science at the University of Manchester. I previously worked as a PDRA on the CONNECT project,  developing a clinical prediction model to predict the risk of relapse in people with psychosis using data collected through wearable devices and smartphones. My current research interests focus on addressing the challenges of incorporating high-frequency data (e.g. from wearable devices) into clinical prediction models. I teach primarily on the MSc Health Data Science and Health Informatics programmes, contributing to teaching on statistics, data visualisation, data linkage and digital transformation.
+
+### Publications
+::: {#publications-list}
+*Loading publications from ORCID...*
+:::
+
+<script src="/js/orcid.js"></script>
+<script>
+  document.addEventListener("DOMContentLoaded", function() {
+    // Pass your specific ORCID to your external function
+    loadOrcidPublications("0000-0001-9087-6505", "publications-list");
+  });
+</script>
