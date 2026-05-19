@@ -75,7 +75,7 @@ ul.task-list li input[type="checkbox"] {
 <script>
 
   window.document.addEventListener("DOMContentLoaded", function (_event) {
-    const listingTargetEl = window.document.querySelector('#listing-listing .list');
+    const listingTargetEl = window.document.querySelector('#listing-members-listing .list');
     if (!listingTargetEl) {
       // No listing discovered, do not attach.
       return; 
@@ -88,7 +88,35 @@ ul.task-list li input[type="checkbox"] {
     };
 
     window['quarto-listings'] = window['quarto-listings'] || {};
-    window['quarto-listings']['listing-listing'] = new List('listing-listing', options);
+    window['quarto-listings']['listing-members-listing'] = new List('listing-members-listing', options);
+
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  });
+
+  window.addEventListener('hashchange',() => {
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  })
+  
+
+  window.document.addEventListener("DOMContentLoaded", function (_event) {
+    const listingTargetEl = window.document.querySelector('#listing-past-members-listing .list');
+    if (!listingTargetEl) {
+      // No listing discovered, do not attach.
+      return; 
+    }
+
+    const options = {
+      valueNames: ['listing-title',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
+      
+      searchColumns: ["listing-title","listing-author","listing-image","listing-description"],
+    };
+
+    window['quarto-listings'] = window['quarto-listings'] || {};
+    window['quarto-listings']['listing-past-members-listing'] = new List('listing-past-members-listing', options);
 
     if (window['quarto-listing-loaded']) {
       window['quarto-listing-loaded']();
@@ -157,10 +185,6 @@ window.Quarto = {
 <span class="menu-text">Home</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./news/"> 
-<span class="menu-text">News</span></a>
-  </li>  
-  <li class="nav-item">
     <a class="nav-link active" href="./members.html" aria-current="page"> 
 <span class="menu-text">Members</span></a>
   </li>  
@@ -179,8 +203,15 @@ window.Quarto = {
 <div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
-    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar zindex-bottom">
-        
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+        <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">On this page</h2>
+   
+  <ul>
+  <li><a href="#current-members" id="toc-current-members" class="nav-link active" data-scroll-target="#current-members">Current Members</a></li>
+  <li><a href="#past-members" id="toc-past-members" class="nav-link" data-scroll-target="#past-members">Past Members</a></li>
+  </ul>
+</nav>
     </div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
@@ -204,13 +235,11 @@ window.Quarto = {
 </header>
 
 
-
-
-
-
-<div class="quarto-listing quarto-listing-container-grid" id="listing-listing">
+<section id="current-members" class="level2">
+<h2 class="anchored" data-anchor-id="current-members">Current Members</h2>
+<div id="listing-members-listing" class="quarto-listing quarto-listing-container-grid">
 <div class="list grid quarto-listing-cols-3">
-<div class="g-col-1" data-index="0" data-listing-file-modified-sort="1779205022979" data-listing-reading-time-sort="1" data-listing-word-count-sort="63">
+<div class="g-col-1" data-index="0" data-listing-file-modified-sort="1779208507989" data-listing-reading-time-sort="1" data-listing-word-count-sort="63">
 <a href="./members/alexpate/index.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
@@ -226,7 +255,7 @@ Research Fellow
 </div>
 </div></a>
 </div>
-<div class="g-col-1" data-index="1" data-listing-file-modified-sort="1779205022979" data-listing-reading-time-sort="1" data-listing-word-count-sort="30">
+<div class="g-col-1" data-index="1" data-listing-file-modified-sort="1779208507989" data-listing-reading-time-sort="1" data-listing-word-count-sort="30">
 <a href="./members/brightchiemezieofoha/index.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
@@ -242,7 +271,7 @@ Research Associate
 </div>
 </div></a>
 </div>
-<div class="g-col-1" data-index="2" data-listing-file-modified-sort="1779205022979" data-listing-reading-time-sort="1" data-listing-word-count-sort="30">
+<div class="g-col-1" data-index="2" data-listing-file-modified-sort="1779208507989" data-listing-reading-time-sort="1" data-listing-word-count-sort="30">
 <a href="./members/chantellecornett/index.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
@@ -258,7 +287,7 @@ Job Title
 </div>
 </div></a>
 </div>
-<div class="g-col-1" data-index="3" data-listing-file-modified-sort="1779205022979" data-listing-reading-time-sort="1" data-listing-word-count-sort="30">
+<div class="g-col-1" data-index="3" data-listing-file-modified-sort="1779208507989" data-listing-reading-time-sort="1" data-listing-word-count-sort="30">
 <a href="./members/christinadiomatari/index.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
@@ -274,7 +303,7 @@ PhD Student
 </div>
 </div></a>
 </div>
-<div class="g-col-1" data-index="4" data-listing-file-modified-sort="1779205022979" data-listing-reading-time-sort="1" data-listing-word-count-sort="30">
+<div class="g-col-1" data-index="4" data-listing-file-modified-sort="1779208507989" data-listing-reading-time-sort="1" data-listing-word-count-sort="30">
 <a href="./members/davidjenkins/index.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
@@ -290,7 +319,7 @@ Lecturer in Health Data Sciences
 </div>
 </div></a>
 </div>
-<div class="g-col-1" data-index="5" data-listing-file-modified-sort="1779205022979" data-listing-reading-time-sort="1" data-listing-word-count-sort="30">
+<div class="g-col-1" data-index="5" data-listing-file-modified-sort="1779208507989" data-listing-reading-time-sort="1" data-listing-word-count-sort="30">
 <a href="./members/fangyuanzhang/index.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
@@ -306,7 +335,7 @@ Research Associate
 </div>
 </div></a>
 </div>
-<div class="g-col-1" data-index="6" data-listing-file-modified-sort="1779205022979" data-listing-reading-time-sort="1" data-listing-word-count-sort="30">
+<div class="g-col-1" data-index="6" data-listing-file-modified-sort="1779208507989" data-listing-reading-time-sort="1" data-listing-word-count-sort="30">
 <a href="./members/glenmartin/index.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
@@ -322,7 +351,7 @@ Lecturer in Health Data Sciences
 </div>
 </div></a>
 </div>
-<div class="g-col-1" data-index="7" data-listing-file-modified-sort="1779205022979" data-listing-reading-time-sort="1" data-listing-word-count-sort="30">
+<div class="g-col-1" data-index="7" data-listing-file-modified-sort="1779208507989" data-listing-reading-time-sort="1" data-listing-word-count-sort="30">
 <a href="./members/jamiepaterson/index.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
@@ -338,7 +367,7 @@ Research Associate (Medical Statistics)
 </div>
 </div></a>
 </div>
-<div class="g-col-1" data-index="8" data-listing-file-modified-sort="1779205022979" data-listing-reading-time-sort="1" data-listing-word-count-sort="30">
+<div class="g-col-1" data-index="8" data-listing-file-modified-sort="1779208507989" data-listing-reading-time-sort="1" data-listing-word-count-sort="30">
 <a href="./members/kritchavatploddi/index.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
@@ -354,7 +383,7 @@ PhD Student
 </div>
 </div></a>
 </div>
-<div class="g-col-1" data-index="9" data-listing-file-modified-sort="1779205022979" data-listing-reading-time-sort="1" data-listing-word-count-sort="30">
+<div class="g-col-1" data-index="9" data-listing-file-modified-sort="1779208507989" data-listing-reading-time-sort="1" data-listing-word-count-sort="30">
 <a href="./members/lanalai/index.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
@@ -370,7 +399,7 @@ Research Associate
 </div>
 </div></a>
 </div>
-<div class="g-col-1" data-index="10" data-listing-file-modified-sort="1779205022979" data-listing-reading-time-sort="1" data-listing-word-count-sort="30">
+<div class="g-col-1" data-index="10" data-listing-file-modified-sort="1779208507989" data-listing-reading-time-sort="1" data-listing-word-count-sort="30">
 <a href="./members/mattsperrin/index.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
@@ -386,7 +415,7 @@ Professor in Health Data Sciences
 </div>
 </div></a>
 </div>
-<div class="g-col-1" data-index="11" data-listing-file-modified-sort="1779205022980" data-listing-reading-time-sort="1" data-listing-word-count-sort="30">
+<div class="g-col-1" data-index="11" data-listing-file-modified-sort="1779208507989" data-listing-reading-time-sort="1" data-listing-word-count-sort="30">
 <a href="./members/miriamngarega/index.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
@@ -402,7 +431,7 @@ PhD Student
 </div>
 </div></a>
 </div>
-<div class="g-col-1" data-index="12" data-listing-file-modified-sort="1779205022980" data-listing-reading-time-sort="1" data-listing-word-count-sort="30">
+<div class="g-col-1" data-index="12" data-listing-file-modified-sort="1779208507989" data-listing-reading-time-sort="1" data-listing-word-count-sort="30">
 <a href="./members/mollywells/index.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
@@ -418,7 +447,7 @@ Research Associate (Medical Statistics)
 </div>
 </div></a>
 </div>
-<div class="g-col-1" data-index="13" data-listing-file-modified-sort="1779205022980" data-listing-reading-time-sort="1" data-listing-word-count-sort="78">
+<div class="g-col-1" data-index="13" data-listing-file-modified-sort="1779208507989" data-listing-reading-time-sort="1" data-listing-word-count-sort="78">
 <a href="./members/phcavelar/index.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
@@ -434,7 +463,7 @@ Postdoctoral Research Associate in Causal Machine Learning
 </div>
 </div></a>
 </div>
-<div class="g-col-1" data-index="14" data-listing-file-modified-sort="1779205022980" data-listing-reading-time-sort="1" data-listing-word-count-sort="30">
+<div class="g-col-1" data-index="14" data-listing-file-modified-sort="1779208507989" data-listing-reading-time-sort="1" data-listing-word-count-sort="30">
 <a href="./members/samanthapacynko/index.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
@@ -450,7 +479,7 @@ Research Assistant
 </div>
 </div></a>
 </div>
-<div class="g-col-1" data-index="15" data-listing-file-modified-sort="1779205022980" data-listing-reading-time-sort="1" data-listing-word-count-sort="139">
+<div class="g-col-1" data-index="15" data-listing-file-modified-sort="1779208507989" data-listing-reading-time-sort="1" data-listing-word-count-sort="139">
 <a href="./members/sianbladdon/index.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
@@ -466,7 +495,7 @@ Lecturer in Health Data Sciences
 </div>
 </div></a>
 </div>
-<div class="g-col-1" data-index="16" data-listing-file-modified-sort="1779205022980" data-listing-reading-time-sort="1" data-listing-word-count-sort="69">
+<div class="g-col-1" data-index="16" data-listing-file-modified-sort="1779208507990" data-listing-reading-time-sort="1" data-listing-word-count-sort="69">
 <a href="./members/stephriley/index.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
@@ -482,7 +511,7 @@ Research Associate in Causal Inference
 </div>
 </div></a>
 </div>
-<div class="g-col-1" data-index="17" data-listing-file-modified-sort="1779205022980" data-listing-reading-time-sort="1" data-listing-word-count-sort="30">
+<div class="g-col-1" data-index="17" data-listing-file-modified-sort="1779208507990" data-listing-reading-time-sort="1" data-listing-word-count-sort="30">
 <a href="./members/victoriapalin/index.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
@@ -498,7 +527,7 @@ Lecturer in Maternal and Fetal Health
 </div>
 </div></a>
 </div>
-<div class="g-col-1" data-index="18" data-listing-file-modified-sort="1779205022980" data-listing-reading-time-sort="1" data-listing-word-count-sort="30">
+<div class="g-col-1" data-index="18" data-listing-file-modified-sort="1779208507990" data-listing-reading-time-sort="1" data-listing-word-count-sort="30">
 <a href="./members/yusufyildiz/index.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
@@ -514,7 +543,7 @@ PhD Student
 </div>
 </div></a>
 </div>
-<div class="g-col-1" data-index="19" data-listing-file-modified-sort="1779205022980" data-listing-reading-time-sort="1" data-listing-word-count-sort="30">
+<div class="g-col-1" data-index="19" data-listing-file-modified-sort="1779208507990" data-listing-reading-time-sort="1" data-listing-word-count-sort="30">
 <a href="./members/ziyiding/index.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
@@ -532,7 +561,31 @@ PhD Student
 </div>
 </div>
 <div class="listing-no-matching d-none">No matching items</div>
-</div></main> <!-- /main -->
+</div>
+</section>
+<section id="past-members" class="level2">
+<h2 class="anchored" data-anchor-id="past-members">Past Members</h2>
+<div id="listing-past-members-listing" class="quarto-listing quarto-listing-container-grid">
+<div class="list grid quarto-listing-cols-3">
+<div class="g-col-1" data-index="0" data-listing-file-modified-sort="1779208507991" data-listing-reading-time-sort="1" data-listing-word-count-sort="30">
+<a href="./past-members/someone/index.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Name
+</h5>
+</div>
+</div></a>
+</div>
+</div>
+<div class="listing-no-matching d-none">No matching items</div>
+</div>
+
+
+
+</section>
+
+</main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
   window.document.addEventListener("DOMContentLoaded", function (event) {
     const icon = "";
