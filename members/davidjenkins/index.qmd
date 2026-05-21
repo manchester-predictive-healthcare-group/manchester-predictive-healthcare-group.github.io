@@ -8,6 +8,15 @@ about:
     - icon: mortarboard
       text: ORCID
       href: https://orcid.org/0000-0001-6687-3507
+    - icon: mortarboard
+      text: UoM Research Explorer
+      href: https://research.manchester.ac.uk/en/persons/david.jenkins-5
+    - icon: mortarboard
+      text: Google Scholar
+      href: https://scholar.google.com/citations?user=j970ZLgAAAAJ
+    - icon: mortarboard
+      text: Github
+      href: https://github.com/David-A-Jenkins
 ---
 
 ### Biography

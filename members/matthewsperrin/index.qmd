@@ -1,0 +1,34 @@
+---
+title: "Matthew Sperrin"
+subtitle: "Professor in Health Data Sciences"
+image: https://avatars.githubusercontent.com/u/20337784?v=4&size=64
+about:
+  template: jolla
+  links:
+    - icon: mortarboard
+      text: ORCID
+      href: https://orcid.org/0000-0002-5351-9960
+    - icon: mortarboard
+      text: UoM Research Explorer
+      href: https://research.manchester.ac.uk/en/persons/matthew.sperrin
+    - icon: mortarboard
+      text: Google Scholar
+      href: https://scholar.google.com/citations?user=ECk2PlwAAAAJ
+---
+
+### Biography
+Matt Sperrin is Professor of Biostatistics and Health Data Science at University of Manchester. Matt is a statistician by background, with research interests at the intersection of prediction modelling and causal inference. He is especially interested in how causal inference can be used to allow prediction under intervention (i.e., what would be the risk IF...), and how causal principles can help to ensure prediction models are generalisable and fair. He programme directs the MSc Health Data Science, and co-leads CHAI (the causality in healthcare AI hub). 
+
+### Publications
+::: {#publications-list}
+*Loading publications from ORCID...*
+:::
+
+<script src="/js/orcid.js"></script>
+<script>
+  document.addEventListener("DOMContentLoaded", function() {
+    // Pass your specific ORCID to your external function
+    loadOrcidPublications("0000-0002-5351-9960", "publications-list");
+  });
+</script>
+

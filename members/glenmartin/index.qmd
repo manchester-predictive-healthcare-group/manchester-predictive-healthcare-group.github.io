@@ -8,10 +8,19 @@ about:
     - icon: mortarboard
       text: ORCID
       href: https://orcid.org/0000-0002-3410-9472
+    - icon: mortarboard
+      text: UoM Research Explorer
+      href: https://research.manchester.ac.uk/en/persons/glen.martin
+    - icon: mortarboard
+      text: Google Scholar
+      href: https://scholar.google.com/citations?user=-9-SxiMAAAAJ
+    - icon: mortarboard
+      text: Github
+      href: https://github.com/GlenMartin31
 ---
 
 ### Biography
-Hello
+Glen is a Senior Lecturer in Health Data Science in the Division of Informatics, Imaging and Data Science at the University of Manchester. His research focuses on developing methodology for clinical risk prediction models, with expertise in multivariate modelling, missing data, and model translation. He holds a PhD in Health Data Science and is a Chartered Statistics. He is Programme Director for the MSc Health Informatics programme, jointly delivered with UCL, and is a Fellow of the Higher Education Academy.
 
 ### Publications
 ::: {#publications-list}

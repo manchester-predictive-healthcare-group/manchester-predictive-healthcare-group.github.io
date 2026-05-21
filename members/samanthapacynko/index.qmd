@@ -11,7 +11,7 @@ about:
 ---
 
 ### Biography
-Hello
+Sam is a research assistant in the Division of Informatics, Imaging and Data Science at the University of Manchester. She is currently funded by the National Institute for Health and Care Research (NIHR) Predoctoral Award to enable her to undertake a programme of training and development to advance her career as an aspiring methodologist with a focus on prediction modelling. 
 
 ### Publications
 ::: {#publications-list}
