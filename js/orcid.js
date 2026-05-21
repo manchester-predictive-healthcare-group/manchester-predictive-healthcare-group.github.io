@@ -27,6 +27,21 @@ async function getOrcidPubs(orcidId) {
 }
 
 /**
+ * Checks if all keys are acessible, in order, and returns the value if so, otherwise
+ * returns the empty value. Doing this as Optional Chaining looks absolutely horrendous.
+ */
+function checkAndGetKeySequence(pub, keyList, defaultValue = null) {
+    let cur = pub;
+    for(const k of keyList) {
+        if(cur === null || cur === undefined || !(k in cur)) {
+            return defaultValue;
+        }
+        cur = cur[k]
+    }
+    return cur;
+}
+
+/**
  * Formats the raw ORCID data into a clean list of publication strings.
  * @param {Array} orcidPubList - The raw publication data from the API.
  * @returns {Array<string>} An array of formatted publication titles/links.
@@ -37,28 +52,16 @@ function formatOrcidPubs(orcidPubList, orcidId) {
     for (const pub of orcidPubList) {       
         //console.log(pub);
         // Title
-        const title = pub["work-summary"] ? pub["work-summary"][0]["title"]["title"]["value"] : '';
+        const title = checkAndGetKeySequence(pub, ["work-summary", 0, "title", "title", "value"], ""); 
         // URL
-        const internalExternalIdUrl = (
-            pub["work-summary"] ? 
-            (
-                pub["work-summary"][0]["external-ids"]["external-id"][0]["external-id-url"] ?
-                pub["work-summary"][0]["external-ids"]["external-id"][0]["external-id-url"]["value"] : ''
-            ) : ''
-        );
-        const workUrl = pub["work-summary"] ? (pub["work-summary"][0]["url"] ? pub["work-summary"][0]["url"]["value"] : "") : '';
-        const externalIdUrl = (
-            pub["work-summary"] ?
-            (
-                pub["external-ids"]["external-id"][0]["external-id-url"] ?
-                pub["external-ids"]["external-id"][0]["external-id-url"]["value"] : ""
-            ) : ''
-        );
+        const internalExternalIdUrl = checkAndGetKeySequence(pub, ["work-summary", 0, "external-ids", "external-id", 0, "external-id-url", "value"], "");
+        const workUrl = checkAndGetKeySequence(pub, ["external-ids", "external-id", 0, "external-id-url", "value"], ""); 
+        const externalIdUrl = checkAndGetKeySequence(pub, ["external-ids", "external-id", 0, "external-id-url", "value"], "");
         // Get any of the url above, otherwise direct to the Orcid Page as a Backup
         const url = externalIdUrl || workUrl || internalExternalIdUrl || `https://orcid.org/${orcidId}`;
         // Journal Name, should check for other types of work and substitute the "journal-title"
         // TODO/FIXME: This needs to be expanded as we roll out the website
-        const journalName = pub["work-summary"] ? (pub["work-summary"][0]["journal-title"] ? pub["work-summary"][0]["journal-title"]["value"] : "" ) : "";
+        const journalName = checkAndGetKeySequence(pub, ["work-summary", 0, "journal-title", "value"], "");
 
         // We combine the information to make it presentable
         formattedList.push(`<li><a href="${url}">${title}. ${journalName}</a></li>`);
@@ -96,7 +99,7 @@ async function loadOrcidPublications(orcidId, targetElementId) {
         const formattedItems = formatOrcidPubs(rawData, orcidId);
 
         // 3. Insert the formatted data into the HTML
-        let htmlContent = '<ul>';
+        let htmlContent = '<ul style="text-align: left; padding-left: 20px; list-style-position: inside;">';
         htmlContent += formattedItems.map(item => `${item}`).join('');
         htmlContent += '</ul>';
 
