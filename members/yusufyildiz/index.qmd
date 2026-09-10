@@ -34,7 +34,7 @@ Yusuf is a PhD student specialising in clinical prediction using electronic heal
 <script>
   document.addEventListener("DOMContentLoaded", function() {
     // Pass your specific ORCID to your external function
-    loadOrcidPublications("0000-0000-0000-0000", "publications-list");
+    loadOrcidPublications("0009-0003-9791-9581", "publications-list");
   });
 </script>
 

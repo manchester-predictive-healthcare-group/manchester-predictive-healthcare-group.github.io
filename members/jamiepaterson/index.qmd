@@ -1,17 +1,20 @@
 ---
 title: "Jamie Paterson"
-subtitle: "Research Associate (Medical Statistics)"
+subtitle: "Resarch Associate in Medical Statistics"
 image: https://avatars.githubusercontent.com/u/0000000?v=4&size=64
 about:
   template: jolla
   links:
     - icon: mortarboard
       text: ORCID
-      href: https://orcid.org/0000-0000-0000-0000
+      href: https://orcid.org/0000-0003-3183-4377
+    - icon: mortarboard
+      text: LinkedIn
+      href: https://www.linkedin.com/in/jamie-paterson-930431262/
 ---
 
 ### Biography
-Hello
+Jamie is a PDRA in Medical Statistics at the University of Manchester, currently working on the RESHAPE-CARE project, using causal inference methods to contribute to the development of a systems-engineering approach to modelling patients with multiple long-term health conditions. He completed a PhD in Mathematical Biology, where his research focused on developing a within-host model of inhalational anthrax infection and modelling the epidemiology of viral infection in a closed population. As a qualified teacher, Jamie has a particular interest in the development and delivery of high-quality teaching, and in exploring how education can adapt to the opportunities and challenges presented by the growing use of AI.
 
 ### Publications
 ::: {#publications-list}
@@ -22,7 +25,7 @@ Hello
 <script>
   document.addEventListener("DOMContentLoaded", function() {
     // Pass your specific ORCID to your external function
-    loadOrcidPublications("0000-0000-0000-0000", "publications-list");
+    loadOrcidPublications("0000-0003-3183-4377", "publications-list");
   });
 </script>
 
