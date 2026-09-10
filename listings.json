@@ -1,6 +1,6 @@
 [
   {
-    "listing": "/news/index.html",
+    "listing": "/index.html",
     "items": [
       "/news/2026-01-06-news6/index.html",
       "/news/2026-01-05-job1/index.html",
@@ -13,7 +13,7 @@
     ]
   },
   {
-    "listing": "/index.html",
+    "listing": "/news/index.html",
     "items": [
       "/news/2026-01-06-news6/index.html",
       "/news/2026-01-05-job1/index.html",
