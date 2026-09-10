@@ -1,6 +1,6 @@
 ---
 title: "Fangyuan Zhang"
-subtitle: "Research Associate"
+subtitle: "Research Associate in Medical Statistics"
 image: https://avatars.githubusercontent.com/u/0000000?v=4&size=64
 about:
   template: jolla
