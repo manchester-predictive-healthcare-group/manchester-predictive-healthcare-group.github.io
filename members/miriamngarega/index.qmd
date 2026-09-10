@@ -1,5 +1,5 @@
 ---
-title: "Miriam Ngarenga"
+title: "Miriam Ngarega"
 subtitle: "PhD Student"
 image: https://avatars.githubusercontent.com/u/0000000?v=4&size=64
 about:
@@ -7,7 +7,7 @@ about:
   links:
     - icon: mortarboard
       text: ORCID
-      href: https://orcid.org/0000-0000-0000-0000
+      href: https://orcid.org/0000-0002-5673-798X
 ---
 
 ### Biography
@@ -22,7 +22,7 @@ Miriam is an epidemiologist by training, with an interest in making better use o
 <script>
   document.addEventListener("DOMContentLoaded", function() {
     // Pass your specific ORCID to your external function
-    loadOrcidPublications("0000-0000-0000-0000", "publications-list");
+    loadOrcidPublications("0000-0002-5673-798X", "publications-list");
   });
 </script>
 
