@@ -1,7 +1,7 @@
 ---
 title: "Matthew Sperrin"
 subtitle: "Professor in Health Data Sciences"
-image: https://avatars.githubusercontent.com/u/20337784?v=4&size=64
+image: photo.jpg
 about:
   template: jolla
   links:

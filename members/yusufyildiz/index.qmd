@@ -7,11 +7,23 @@ about:
   links:
     - icon: mortarboard
       text: ORCID
-      href: https://orcid.org/0000-0000-0000-0000
+      href: https://orcid.org/0009-0003-9791-9581
+    - icon: mortarboard
+      text: UoM Research Explorer
+      href: https://research.manchester.ac.uk/en/persons/yusuf-yildiz/
+    - icon: mortarboard
+      text: Google Scholar
+      href: https://scholar.google.com/citations?user=8wPfeRkAAAAJ
+    - icon: mortarboard
+      text: LinkedIn
+      href: https://www.linkedin.com/in/yusuf-yıldız-15290193
+    - icon: mortarboard
+      text: LinkedIn
+      href: https://github.com/yildizyy
 ---
 
 ### Biography
-Hello
+Yusuf is a PhD student specialising in clinical prediction using electronic health records, with a focus on transformer-based models and large language models for healthcare applications. His research interests includes digital health, machine learning, and the responsible use of artificial intelligence in clinical decision-making.
 
 ### Publications
 ::: {#publications-list}

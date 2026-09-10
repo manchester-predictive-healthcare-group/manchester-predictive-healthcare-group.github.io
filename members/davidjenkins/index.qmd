@@ -1,6 +1,6 @@
 ---
 title: "David A. Jenkins"
-subtitle: "Lecturer in Health Data Sciences"
+subtitle: "Senior Lecturer in Health Data Sciences"
 image: https://avatars.githubusercontent.com/u/45230232?v=4&size=64
 about:
   template: jolla
@@ -20,7 +20,7 @@ about:
 ---
 
 ### Biography
-Hello
+David Jenkins is a Senior Lecturer in Health Data Science in the Division of Informatics, Imaging and Data Sciences. His research focuses on methodology for development, updating, monitoring and fairness of clinical prediction models, as well as developing models for use in healthcare. He holds a PhD in Health Data Science from the University of Manchester and an MSc in Medical Statistics from the University of Leicester. He is the University of Manchester Digital Health Lead for N8 CIR, a Divisional Tutor and a Fellow of the Higher Education Academy.
 
 ### Publications
 ::: {#publications-list}

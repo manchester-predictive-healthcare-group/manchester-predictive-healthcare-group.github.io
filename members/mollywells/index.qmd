@@ -1,17 +1,26 @@
 ---
 title: "Molly Wells"
-subtitle: "Research Associate (Medical Statistics)"
-image: https://avatars.githubusercontent.com/u/0000000?v=4&size=64
+subtitle: "Research Associate in Medical Statistics"
+image: photo.jpg
 about:
   template: jolla
   links:
     - icon: mortarboard
       text: ORCID
       href: https://orcid.org/0000-0002-8092-9279
+    - icon: mortarboard
+      text: UoM Research Explorer
+      href: https://research.manchester.ac.uk/en/persons/molly-wells/
+    - icon: mortarboard
+      text: Google Scholar
+      href: https://scholar.google.com/citations?user=fdXLyu8AAAAJ
+    - icon: mortarboard
+      text: LinkedIn
+      href: https://www.linkedin.com/in/molly-wells-56840417a/
 ---
 
 ### Biography
-Hello
+Molly is a Postdoctoral Research Associate in Medical Statistics in the Division of Informatics, Imaging and Data Science at the University of Manchester. Molly recently graduated with a PhD from the University of Leicester which focused on methods to improve the estimation of cancer survival, particularly in the presence of competing risks. Molly is a former NIHR pre-doctoral fellow from the University of Leicester with a MSc in Medical Statistics with specialisation in health technology assessments. Molly’s research interests are in the fairness of clinical prediction models, as well as causal inference and survival analysis methods.
 
 ### Publications
 ::: {#publications-list}
