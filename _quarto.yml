@@ -4,6 +4,9 @@ project:
 
 website:
   title: "Manchester Predictive Healthcare Group - One Prediction"
+  search:
+    location: navbar
+    type: overlay
   navbar:
     left:
       - href: index.qmd
@@ -14,6 +17,27 @@ website:
         text: Members
       - href: book/
         text: Lab Book
+  sidebar:
+    - id: handbook
+      header: |
+        ## UoM Prediction Modelling and Causal Inference Group Handbook
+      style: floating
+      collapse-level: 1
+      contents:
+        - text: "Home"
+          href: book/index.qmd
+        - text: "Research Group Culture and Working Environment"
+          href: book/lab_culture.qmd
+        - text: "Resources and Training"
+          href: book/resources.qmd
+        - text: "Publications and Dissemination"
+          href: book/pubs_confs.qmd
+        - text: "Coding and Reproducible Research"
+          href: book/code_reprod.qmd
+        - text: "Data and HPC"
+          href: book/computing.qmd
+        - text: "Funding"
+          href: book/funding.qmd
 
 format:
   html:

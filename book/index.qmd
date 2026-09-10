@@ -6,5 +6,3 @@ title: "Introduction"
 This is the handbook for the Prediction Modelling and Causal Inference research group (aka One Prediction) at the University of Manchester, led by Prof Matthew Sperrin, Dr Glen Martin, Dr Dave Jenkins and Dr Siân Bladon. The aim of the handbook is to provide useful information for researchers and students working within the group. The handbook was put together by Siân Bladon and Lana Lai, with input from all group members!
 
 If you have any suggestions of any other information that could be added to the handbook then please let Siân know.
-
-For more general information about the research group please see the main [group website here.](https://manchester-predictive-healthcare-group.github.io/)
