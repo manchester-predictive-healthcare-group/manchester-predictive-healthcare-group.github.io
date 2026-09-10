@@ -12,7 +12,7 @@ listing:
   page-size: 4
 ---
 
-![Group Photo](group-photo.jpg)
+![Group Map](group-map.png)
 
 Our group is focused on prediction for healthcare.
 
