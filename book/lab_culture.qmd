@@ -1,0 +1,65 @@
+# Research Group Culture and Working Environment
+
+### Communication
+
+Most members of the group mainly use emails and Teams to communicate. We have a Teams space for the group, which is where people can share relevant papers, seminars, training resources or anything else that may be of interest to the group. You can also use this space to ask questions or get advice on any code or data issues you may be struggling with. Please ask Matt, Glen, Dave or Siân to add you to the channel if you have not been added already!
+
+Some members of the group may work and send emails outside of core working hours, however, please do not feel obliged to reply to these emails outside of your usual working hours!
+
+If you are taking any leave then please put an out-of-office message on your Outlook, letting people know you are not available and when you will be back in the office. Although some group members may read and send emails when they are on leave, this is discouraged. Taking time away from your work/studies is important and we encourage you to switch off entirely!
+
+### Project and PhD student meetings
+
+If you are a PhD student or post-doc on a project, you will have regular meetings with your supervisors, line manager, and/or other relevant colleagues. The frequency of these meetings will be by mutual agreement.
+
+Where the meeting is about ‘your’ project, you are expected to prepare and share an agenda before the meeting (at least 24 hours in advance) and circulate brief minutes and actions after the meeting (within 3 working days). If you wish to cancel a meeting, please give as much notice as possible, so that colleagues can reallocate the time slot. A lack of progress is not a good reason to cancel a meeting (it is even more important to meet in this case!); progress includes trying different approaches that fail.
+
+For writing an agenda, a useful template is the ‘3 Ps’:
+
+-   Progress: what progress has been made since the last meeting?
+-   Problems: what challenges have you encountered? What are your proposed solutions?
+-   Plan: what do you plan to do between now and the next meeting?
+
+Some people like to prepare a slide deck to structure a meeting – this is not essential but can be a nice way to structure the meeting and maximise its productivity.
+
+### Feedback
+
+You will often require feedback from other colleagues (or your supervisor/line manager) on work you have prepared. Here are a few useful tips for when you are asking for feedback:
+
+-   It is useful to clarify what type of feedback you are looking for. E.g., ‘is this in the right direction’ versus detailed in-line feedback on a draft paper. We encourage sharing documents early and often.
+-   Share documents using shared folders in OneDrive/SharePoint, rather than attaching them to emails. This helps with version control, especially when multiple people are commenting and editing.
+-   You should always set a deadline for when you want the feedback returned, including with more senior colleagues. A reasonable deadline is two weeks. Longer deadlines may be required over holiday times and for long documents. If you will need something turned around faster, it is good to prepare people ahead of time for this (e.g., “I will share a draft paper two weeks on Monday and will need the feedback on Friday”).
+
+### Use of Generative/Agentic AI tools (e.g., Microsoft CoPilot)
+
+Use of AI in research is a fast-developing and controversial topic. Even within the group, there is a divergence of views on how it should be used. Some general principles:
+
+-   AI is a supportive tool and should not be used to replace your academic judgement. AI outputs will include a mixture of good and bad, relevant and irrelevant, suggestions. Anything that you share where AI assisted its creation is fully your responsibility and you should verify all contents. This obviously includes cited research!
+-   Places where AI can be particularly helpful include:
+    -   Brainstorming and planning o Help debugging and writing code
+    -   Checking grammar, and giving suggestions on making text more concise (e.g., to meet a word limit, but obviously check the suggestions)
+    -   Summarising a paper (to help decide whether it’s worth reading in detail)
+-   If you are unsure, take advice from a supervisor/line manager/senior colleague. You should also be transparent about when and how AI tools have been used.
+-   Remember that Microsoft Copilot is preferred for use as data placed in Copilot is protected (stays within university file systems). The University is in the process of rolling out Copilot licences to [all staff and students.](https://livemanchesterac.sharepoint.com/sites/UOM-ITS-Copilot)
+
+The University has developed guidelines for staff and students using or developing AI. These can be found in the [PGR Code of Practice](https://www.staffnet.manchester.ac.uk/rbe/rdrd/code/) and the [Staff AI Hub](https://www.staffnet.manchester.ac.uk/ai-hub/guidelines/). The guidelines include five principles of appropriate AI use which all staff and students are personally responsible for adhering to, as well as guidance on how to apply these principles to teaching and research.
+
+### Group meetings and socials
+
+The group meets once a month, usually on the third Thursday at 3pm in the Congregation, Vaughan House. The format of the meeting alternates each month between meetings for the core research group and wider meetings where the invite is extended to other researchers outside of the group with an interest in prediction or causal inference. For the wider group meetings people can volunteer to talk about their research, update about training or conferences they've attended or present an interesting journal article for discussion. If you would like to present then there is a sign-up sheet on the Teams space.
+
+Every Tuesday lunchtime we have a catch-up in the ground floor kitchen of Vaughan House, 12:30-1pm. These are very informal and just a chance for us all to catch up over lunch or a brew and get to know one another better!
+
+We also like to hold regular socials, usually following the monthly meetings. Recent activities have included a board games afternoon, a picnic in the park, and pizza! These are not compulsory but we encourage attendance, it is a great way to get to know the rest of the group! Keep an eye out on the Teams channel for details on upcoming socials. If you have any suggestions for activities then please speak to our social secretaries, Molly & Steph.
+
+Alongside research group meetings the division holds quarterly open meetings with (free!) lunch. These are a great opportunity to get updates from the divisional leadership, hear about research going on in other groups and meet other staff and students from across the division. All staff and PGR students working in the division are expected to attend, details are usually sent via the division mailing lists.
+
+### Flexible and hybrid working
+
+Most members of the group work regular hours, 9am-5pm Monday-Friday. As stated above, some may work outside of these hours but we do not expect other staff or students to do the same. Some staff do take advantage of UoM's [flexible working policy](https://www.staffnet.manchester.ac.uk/people/current-staff/leave-working-arrangements/flexible-working/) and work condensed hours, and so may be unavailable on certain days or times of the week.
+
+The majority of the group work in a hybrid manner, with Tuesdays, Wednesdays and Thursdays usually the busiest days in the office. We encourage in-person attendance for meetings where possible, whether that's individual meetings with your line manager or supervisor, or group meetings. We encourage regular attendance in the office – as a rough guide at least two days per week.
+
+### Engagement with the group
+
+We try to be a friendly and approachable group and we encourage everyone to engage with the group during their time with us! Not only does this create a fun and supportive working environment for us all, but it also helps establish collaborations and networks, which is an important part of your development as a researcher. If you have suggestions on how we can be more inclusive, or different ideas concerning events, activities or culture, then please raise this at one of our monthly meetings or speak to your supervisor/line manager.

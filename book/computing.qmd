@@ -1,0 +1,20 @@
+# Data Access, Data Storage, and Computing Resources
+
+This page will contain information about how to access data from different sources, storing data securely and how to access the University's computing resources. 
+Most of us in the group work with highly sensitive data from electronic health records, disease registries and national biobanks. When accessing these types of data it is vital that the confidentiality and privacy of those within the datasets is preserved by following information governance guidance.
+
+### Data Access
+
+Some common data sources used by the group include [CPRD](https://www.cprd.com/), [SAIL](https://saildatabank.com/) and [UK Biobank](https://www.ukbiobank.ac.uk/). Accessing the data through These large sources usually includes writing a protocol or analysis plan then applying for access which must be approved by the organisation. Once a project has been approved users may have to complete some training before access is granted. Most organisations have now moved to providing access to data through a Trusted Research Environment (TRE), where all analysis is done within the TRE and there are restrictions on what can be exported. 
+The process of getting approval for projects and accessing data can take a long time. It is important if you are planning on using any of these data sources that you account for this in your project plans and make sure you include time for any necessary training. 
+
+For other projects you may have access to data which is shared directly with you. In this case you are responsible for ensuring that data is kept securely in accordance with any data sharing agreement. The University provides a few options for storing data, which are detailed below. 
+
+### Data Storage
+
+The University provides Research Data Storage (RDS) through the Research IT service. Information about how this is [here.](https://ri.itservices.manchester.ac.uk/rds/)
+
+### High Performance Computing
+
+Research IT also provide High Performance Computing (HPC) services, for projects that may be computationally intensive. There are two main services, the [CSF](https://ri.itservices.manchester.ac.uk/csf3/) and [iCSF](https://ri.itservices.manchester.ac.uk/icsf/).
+They do offer training courses on how to use these, details can be found [here](https://www.staffnet.manchester.ac.uk/talent-development/digital-capabilities/uni-systems/research-computing/). If you are having issues using these services then you should contact Research IT through the Connect portal, or they hold online [drop-in sessions every other Wednesday](https://research-it.manchester.ac.uk/events/).

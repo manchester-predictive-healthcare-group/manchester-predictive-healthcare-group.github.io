@@ -1,0 +1,101 @@
+# Resources and Training
+
+The following resources may be helpful for staff and students across research, teaching, professional development, equality, diversity and inclusion (EDI), and training. They include institutional support pages, workshops, staff networks, researcher development opportunities, guidance on good research practices, and external courses relevant to research methods, prognosis research, causal inference, and statistical analysis. The resources also highlight practical support for research dissemination and career development, including information on conferences, professional societies, travel and dissemination funding, and opportunities to engage with wider academic and clinical research communities.
+
+## Researcher Development and Academic Support
+
+The university offers a lot of internal resources and courses for early career researchers, including PGR students, post-doctoral RA's and new academic staff.
+
+### Postgraduate Research Students (PGRs)
+
+The FBMH [Doctoral Academy](https://www.doctoral-academy.bmh.manchester.ac.uk/) is the main source of information for PGRs. There are links to the PGR handbook, details of who to contact for a range of issues, and details of training courses and graduate teaching assistant opportunities. On the [support](https://www.doctoral-academy.bmh.manchester.ac.uk/community/support/) page you can find information about the counselling services, financial support and the Disability Advisory and Support Service (DASS). As well as your supervisory team every PGR has an independent advisor, who you can approach if you need any additional advice or support. If you are unsure who your advisor is then their name will be on your eProg profile. The Division also has three PGR tutors who can also help with any queries. They are David Jenkins, Rainer Hinz and Peter Freeman, and their contact details are [here.](https://www.doctoral-academy.bmh.manchester.ac.uk/essential-information/contacts/academic/)
+
+Another useful resource for PGRs is the University Code of practice for postgraduate research degrees, which can be found [here.](https://www.staffnet.manchester.ac.uk/rbe/rdrd/code/)
+
+PGRs are expected to engage in at least 10 days of training per year. All PGRs have to complete mandatory training through the Doctoral Academy, including an induction when you start and sessions on preparing for your first year continuation report and research integrity training. Details of these are [here](https://www.doctoral-academy.bmh.manchester.ac.uk/training/programme/). Additional training is available through the Researcher Development team, including workshops on managing your research project, research skills, and career development. The timetable for workshops can be found [here.](https://livemanchesterac.sharepoint.com/sites/ResearcherDevelopment/SitePages/Postgraduate%20Researchers.aspx?csf=1&web=1&e=zdZIJ0)
+
+### Research Staff Development
+
+For post-doctoral research staff the [Researcher Development](https://livemanchesterac.sharepoint.com/sites/ResearcherDevelopment/SitePages/Research-Staff.aspx?csf=1&web=1&e=qsljsb) website is the best place to go for information on support and training available, as well as a link to the Research Staff handbook. Research staff are recommended to spend up to 10 days per year on professional and career development opportunities. Researcher Development offer a range of [workshops](https://livemanchesterac.sharepoint.com/:u:/r/sites/ResearcherDevelopment/SitePages/Workshops-for-Research-Staff.aspx?csf=1&web=1&e=XUMVTB) covering communication, leadership and career development.
+
+There is also a separate site for training and support for research fellows [here.](https://livemanchesterac.sharepoint.com/sites/ResearcherDevelopment/SitePages/Fellows.aspx?csf=1&web=1&e=buQ4fB)
+
+### Lecturers
+
+All newly appointed lecturers are required to complete the Academic Development Programme as part of their probation. This involves attending a number of workshops on teaching, research, and personal and professional development, and completing a reflective portfolio. You can find more information about the ADP [here](https://livemanchesterac.sharepoint.com/sites/UoM-FBMH-ADP/) and details about probation [here.](https://www.staffnet.manchester.ac.uk/people/new-staff/probation/)
+
+Any staff, including research associates and research fellows, who are involved in the supervision of PGRs are required to complete supervisor training, which is run through the Doctoral Academy and Researcher Development. All supervisors are expected to engage with at least one CPD activity per year. Information about the different sessions can be found [here.](https://www.staffnet.manchester.ac.uk/bmh/research/doctoral-academy/pgr-policies/supervisor-development/)
+
+### Performance Development Review and Promotion
+
+Every year each member of staff will have a performance and development review with their line manager. These meetings are an opportunity to discuss career development goals and progress. You should agree with your line manager when this meeting should take place and how it will be documented. There is a template for academics and research staff, as well as other helpful information about how to prepare for your P&DR [here.](https://www.staffnet.manchester.ac.uk/talent-development/pdr/)
+
+For staff interested in putting themselves forward for promotion there is a dedicated [website](https://www.staffnet.manchester.ac.uk/people/current-staff/career-development/academic-promotions-procedures/) with details of the procedure, criteria and application guidance.
+
+## Research Infrastructure and Team Resources
+
+### Team Research
+
+Team Research is a programme that aims to increase awareness and application of collaborative team research principles. There is more information on their [website](https://www.teamresearch.manchester.ac.uk/), including [resources](https://www.teamresearch.manchester.ac.uk/resources-events/) and a [training toolkit.](https://www.teamresearch.manchester.ac.uk/training-toolkit/)
+
+### Equality, Diversity and Inclusion (EDI)
+
+The University has an EDI policy that sets out their commitment to promoting equality and providing an environment where all members of our community are treated with respect and dignity. The policy can be found [here.](https://www.staffnet.manchester.ac.uk/equality-diversity-inclusion/about-us/) Additional useful resources include the [Equality Impact Assessments Templates & Guidance](https://livemanchesterac.sharepoint.com/sites/UOM-EDI-EIA/SitePages/Equality-Impact-Assessments---Community-of-Practice.aspx) and how to get involved with [staff networks.](https://www.staffnet.manchester.ac.uk/equality-diversity-inclusion/staff-networks/)
+
+## Research Training & Resources
+
+### General Research Resources
+
+-   The [UKRI Good Research Practice Policies and Guidance](https://www.ukri.org/who-we-are/mrc/our-policies-and-standards/research/) has policies that cover research excellence and integrity, ethical research, partnerships, risk and resilience, and openness and transparency.
+
+-   The Royal Statistical Society offer a range of training resources, that can be found [here.](https://rss.org.uk/training-events/training/)
+
+-   The University of Bristol also offers a range of courses, including causal inference and missing data. The timetable for 2026/2027 is [here.](https://www.bristol.ac.uk/medical-school/short-courses-and-cpd/short-courses/courses/provisional-2627-courses/)
+
+### Prognosis and Prediction Modelling
+
+-   The [Prognosis Research](https://www.prognosisresearch.com/) website by Richard Riley contains lots of useful information relating to prognostic and prediction modelling, including guidance on methods.
+
+-   Statistical Methods for Risk Prediction & Prognostic Models at the University of Birmingham, led by Kim Snell. Held online over 4 days, usually runs once per year. Next course is July 2026. More information can be found [here.](https://www.birmingham.ac.uk/study/short-courses/medicine-and-health/statistical-methods-for-risk-prediction-and-prognostic-models)
+
+### Systematic Reviews and Meta-Analysis
+
+-   The University library has a lot of useful information to help you get started with a systematic review, including online courses, in-person workshops and one-to-one consultations with a librarian. More info is [here.](https://www.library.manchester.ac.uk/training/specialist-library-support/advanced-searching-and-systematic-reviews/)
+
+-   Statistical Methods for Meta-Analysis of Individual Participant Data course at the University of Birmingham, led by Joie Ensor. Held online over 3 days, usually runs once per year. The next course is in December 2026. Details are [here.](https://www.birmingham.ac.uk/study/short-courses/medicine-and-health/statistical-methods-for-meta-analysis-of-individual-participant-data-smipd)
+
+### Causal Inference
+
+-   Introduction to Causal Inference course at the University of Leeds, led by Peter Tennant. Held in-person for 5 days, usually runs once per year, next course in 2027. More details [here.](https://www.causal.training/)
+
+-   Causal Inference in Practice course at UCL, led by Karla Diaz-Ordaz. In-person, 3 days, next course in Feb 2027. Course homepage is [here.](https://www.ucl.ac.uk/short-courses/search-courses/causal-inference-practice-0)
+
+-   The Harvard CAUSALab runs an online summer school each year, with a few courses on offer, details [here.](https://hsph.harvard.edu/research/causalab/courses/)
+
+### Simulation Studies
+
+-   Using Simulation Studies to Evaluate Statistical Methods course at UCL, led by Tim Morris. Held online, over 3 days, next course is in June 2026. More info is [here.](https://www.ucl.ac.uk/population-health-sciences/clinical-trials-and-methodology/study/short-courses/using-simulation-studies-evaluate-statistical-methods)
+
+### Missing Data and Imputation
+
+-   Practical use of multiple imputation to handle missing data in Stata course at UCL, led by Ian White and Angela Wood. More information is [here](https://www.ucl.ac.uk/population-health-sciences/clinical-trials-and-methodology/study/short-courses/practical-use-multiple-imputation-handle-missing-data-stata)
+
+-   Understanding and Handling Missing Information in Datasets course at UCL. This course is held hybrid once per year but also has a self-led version that can be started at any time. There are more details [here](https://www.ucl.ac.uk/population-health-sciences/events/2026/may/understanding-and-handling-missing-information-datasets)
+
+## Seminar Series
+
+The following are regular seminar series that cover either prediction modelling or causal inference. See the links for details of how to sign up to mailing lists to be notified of future seminars and to see recordings of previous seminars, if available.
+
+-   [Test and Prediction Seminar Series](https://www.prognosisresearch.com/seminars)
+
+-   [Maudsley BRC Prediction Modelling Group Seminar Series](https://www.maudsleybrc.nihr.ac.uk/facilities/prediction-modelling-group/)
+
+-   [Karolinska Intstitute CAUSALab Methods Series](https://hsph.harvard.edu/research/causalab/seminars/)
+
+-   [Causality in Healthcare AI (CHAI) Hub Seminar Series](https://www.chai.ac.uk/seminar-series)
+
+## Professional Societies
+
+-   [Royal Statistical Society](https://rss.org.uk/about/who-we-are/) offer different levels of membership, including a free student one. They also offer professional qualifications such as becoming a Chartered Statistician.
+
+-   [International Society for Clinical Biostatistics](https://rss.org.uk/about/who-we-are/)

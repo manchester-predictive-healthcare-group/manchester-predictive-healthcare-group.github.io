@@ -1,0 +1,6 @@
+
+# Open and Reproducible Research
+
+This page will contain information about how we can conduct our research in an open and reproducible manner. This will include using Github for version control and code sharing, registering study protocols and analysis plans online prior to starting a new research project, and the use of reporting guidelines.
+
+   
