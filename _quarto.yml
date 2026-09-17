@@ -3,7 +3,7 @@ project:
   output-dir: docs
 
 website:
-  title: "Manchester Predictive Healthcare Group - One Prediction"
+  title: "Manchester Prediction Modelling and Causal Inference Group"
   search:
     location: navbar
     type: overlay

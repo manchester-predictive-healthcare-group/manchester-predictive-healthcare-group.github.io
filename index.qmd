@@ -1,5 +1,5 @@
 ---
-title: Manchester Predictive Healthcare Group - One Prediction
+title: Manchester Prediction Modelling and Causal Inference Group - One Prediction
 page-layout: full
 format: html
 listing:
@@ -12,9 +12,18 @@ listing:
   page-size: 4
 ---
 
+The Prediction Modelling and Causal Inference research group (aka One Prediction) is based within the [Division of Informatics, Imaging and Data Sciences](https://research.manchester.ac.uk/en/organisations/division-of-informatics-imaging-data-sciences/) at the University of Manchester. The group is led by Professor Matthew Sperrin, Dr Glen Martin, Dr David Jenkins, and Dr Siân Bladon. 
+
+![Group leaders from left to right: Glen, Siân, Dave & Matt](4WF.JPEG)
+
+The group's research is focused around clinical prediction modelling and causal inference. There are 5 main themes which are summarised in the graphic below. 
+
+
 ![Group Map](group-map.png)
 
-Our group is focused on prediction for healthcare.
+There are currently around 22 members of the group, including pre-doctoral fellows, PhD students, post-doc research associates and research fellows. The members page has more information about each person in the group, including their publications. 
+
+![Group members at the 2025 MEMTAB conference at the University of Birmingham](members-photo.jpg)
 
 
 ## What's happening recently
