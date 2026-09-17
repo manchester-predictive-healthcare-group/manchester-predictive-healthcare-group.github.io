@@ -1,7 +1,7 @@
 ---
 title: "David A. Jenkins"
 subtitle: "Senior Lecturer in Health Data Sciences"
-image: https://avatars.githubusercontent.com/u/45230232?v=4&size=64
+image: dave.png
 about:
   template: jolla
   links:
