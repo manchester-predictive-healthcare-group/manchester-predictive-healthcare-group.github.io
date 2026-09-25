@@ -1,240 +1,10 @@
 [
   {
-    "objectID": "members/matthewsperrin/index.html",
-    "href": "members/matthewsperrin/index.html",
-    "title": "Matthew Sperrin",
+    "objectID": "news/2026-01-02-news2/index.html",
+    "href": "news/2026-01-02-news2/index.html",
+    "title": "News 2",
     "section": "",
-    "text": "Biography\nMatt Sperrin is Professor of Biostatistics and Health Data Science at University of Manchester. Matt is a statistician by background, with research interests at the intersection of prediction modelling and causal inference. He is especially interested in how causal inference can be used to allow prediction under intervention (i.e., what would be the risk IF…), and how causal principles can help to ensure prediction models are generalisable and fair. He programme directs the MSc Health Data Science, and co-leads CHAI (the causality in healthcare AI hub).\n\n\nPublications\n\nLoading publications from ORCID…"
-  },
-  {
-    "objectID": "members/mollywells/index.html",
-    "href": "members/mollywells/index.html",
-    "title": "Molly Wells",
-    "section": "",
-    "text": "Biography\nMolly is a Postdoctoral Research Associate in Medical Statistics in the Division of Informatics, Imaging and Data Science at the University of Manchester. Molly recently graduated with a PhD from the University of Leicester which focused on methods to improve the estimation of cancer survival, particularly in the presence of competing risks. Molly is a former NIHR pre-doctoral fellow from the University of Leicester with a MSc in Medical Statistics with specialisation in health technology assessments. Molly’s research interests are in the fairness of clinical prediction models, as well as causal inference and survival analysis methods.\n\n\nPublications\n\nLoading publications from ORCID…"
-  },
-  {
-    "objectID": "members/chantellecornett/index.html",
-    "href": "members/chantellecornett/index.html",
-    "title": "Chantelle Cornett",
-    "section": "",
-    "text": "Biography\nHello\n\n\nPublications\n\nLoading publications from ORCID…"
-  },
-  {
-    "objectID": "members/davidjenkins/index.html",
-    "href": "members/davidjenkins/index.html",
-    "title": "David A. Jenkins",
-    "section": "",
-    "text": "Biography\nDavid Jenkins is a Senior Lecturer in Health Data Science in the Division of Informatics, Imaging and Data Sciences. His research focuses on methodology for development, updating, monitoring and fairness of clinical prediction models, as well as developing models for use in healthcare. He holds a PhD in Health Data Science from the University of Manchester and an MSc in Medical Statistics from the University of Leicester. He is the University of Manchester Digital Health Lead for N8 CIR, a Divisional Tutor and a Fellow of the Higher Education Academy.\n\n\nPublications\n\nLoading publications from ORCID…"
-  },
-  {
-    "objectID": "members/alexpate/index.html",
-    "href": "members/alexpate/index.html",
-    "title": "Alexander Pate",
-    "section": "",
-    "text": "Biography\nAlex’s interests centre around clinical prediction modelling, including quantifying uncertainty, model evaluation, multi-outcome prediction and prediction-under-intervention; as well as the design of simulation studies, and developing software to translate statistical methodology into usable outputs.\n\n\nPublications\n\nLoading publications from ORCID…"
-  },
-  {
-    "objectID": "members/brightchiemezieofoha/index.html",
-    "href": "members/brightchiemezieofoha/index.html",
-    "title": "Bright Chiemezie Ofoha",
-    "section": "",
-    "text": "Biography\nHello\n\n\nPublications\n\nLoading publications from ORCID…"
-  },
-  {
-    "objectID": "members/christinadiomatari/index.html",
-    "href": "members/christinadiomatari/index.html",
-    "title": "Christina Diomatari",
-    "section": "",
-    "text": "Biography\nHello\n\n\nPublications\n\nLoading publications from ORCID…"
-  },
-  {
-    "objectID": "members/ziyiding/index.html",
-    "href": "members/ziyiding/index.html",
-    "title": "Ziyi Ding",
-    "section": "",
-    "text": "Biography\nHello\n\n\nPublications\n\nLoading publications from ORCID…"
-  },
-  {
-    "objectID": "members/kritchavatploddi/index.html",
-    "href": "members/kritchavatploddi/index.html",
-    "title": "Kritchavat Ploddi",
-    "section": "",
-    "text": "Biography\nHello\n\n\nPublications\n\nLoading publications from ORCID…"
-  },
-  {
-    "objectID": "members/lanalai/index.html",
-    "href": "members/lanalai/index.html",
-    "title": "Lana Lai",
-    "section": "",
-    "text": "Biography\nHello\n\n\nPublications\n\nLoading publications from ORCID…"
-  },
-  {
-    "objectID": "past-members/someone/index.html",
-    "href": "past-members/someone/index.html",
-    "title": "Name",
-    "section": "",
-    "text": "Biography\nGoodbye\n\n\nPublications\n\nLoading publications from ORCID…"
-  },
-  {
-    "objectID": "book/lab_culture.html",
-    "href": "book/lab_culture.html",
-    "title": "Research Group Culture and Working Environment",
-    "section": "",
-    "text": "Most members of the group mainly use emails and Teams to communicate. We have a Teams space for the group, which is where people can share relevant papers, seminars, training resources or anything else that may be of interest to the group. You can also use this space to ask questions or get advice on any code or data issues you may be struggling with. Please ask Matt, Glen, Dave or Siân to add you to the channel if you have not been added already!\nSome members of the group may work and send emails outside of core working hours, however, please do not feel obliged to reply to these emails outside of your usual working hours!\nIf you are taking any leave then please put an out-of-office message on your Outlook, letting people know you are not available and when you will be back in the office. Although some group members may read and send emails when they are on leave, this is discouraged. Taking time away from your work/studies is important and we encourage you to switch off entirely!\n\n\n\nIf you are a PhD student or post-doc on a project, you will have regular meetings with your supervisors, line manager, and/or other relevant colleagues. The frequency of these meetings will be by mutual agreement.\nWhere the meeting is about ‘your’ project, you are expected to prepare and share an agenda before the meeting (at least 24 hours in advance) and circulate brief minutes and actions after the meeting (within 3 working days). If you wish to cancel a meeting, please give as much notice as possible, so that colleagues can reallocate the time slot. A lack of progress is not a good reason to cancel a meeting (it is even more important to meet in this case!); progress includes trying different approaches that fail.\nFor writing an agenda, a useful template is the ‘3 Ps’:\n\nProgress: what progress has been made since the last meeting?\nProblems: what challenges have you encountered? What are your proposed solutions?\nPlan: what do you plan to do between now and the next meeting?\n\nSome people like to prepare a slide deck to structure a meeting – this is not essential but can be a nice way to structure the meeting and maximise its productivity.\n\n\n\nYou will often require feedback from other colleagues (or your supervisor/line manager) on work you have prepared. Here are a few useful tips for when you are asking for feedback:\n\nIt is useful to clarify what type of feedback you are looking for. E.g., ‘is this in the right direction’ versus detailed in-line feedback on a draft paper. We encourage sharing documents early and often.\nShare documents using shared folders in OneDrive/SharePoint, rather than attaching them to emails. This helps with version control, especially when multiple people are commenting and editing.\nYou should always set a deadline for when you want the feedback returned, including with more senior colleagues. A reasonable deadline is two weeks. Longer deadlines may be required over holiday times and for long documents. If you will need something turned around faster, it is good to prepare people ahead of time for this (e.g., “I will share a draft paper two weeks on Monday and will need the feedback on Friday”).\n\n\n\n\nUse of AI in research is a fast-developing and controversial topic. Even within the group, there is a divergence of views on how it should be used. Some general principles:\n\nAI is a supportive tool and should not be used to replace your academic judgement. AI outputs will include a mixture of good and bad, relevant and irrelevant, suggestions. Anything that you share where AI assisted its creation is fully your responsibility and you should verify all contents. This obviously includes cited research!\nPlaces where AI can be particularly helpful include:\n\nBrainstorming and planning o Help debugging and writing code\nChecking grammar, and giving suggestions on making text more concise (e.g., to meet a word limit, but obviously check the suggestions)\nSummarising a paper (to help decide whether it’s worth reading in detail)\n\nIf you are unsure, take advice from a supervisor/line manager/senior colleague. You should also be transparent about when and how AI tools have been used.\nRemember that Microsoft Copilot is preferred for use as data placed in Copilot is protected (stays within university file systems). The University is in the process of rolling out Copilot licences to all staff and students.\n\nThe University has developed guidelines for staff and students using or developing AI. These can be found in the PGR Code of Practice and the Staff AI Hub. The guidelines include five principles of appropriate AI use which all staff and students are personally responsible for adhering to, as well as guidance on how to apply these principles to teaching and research.\n\n\n\nThe group meets once a month, usually on the third Thursday at 3pm in the Congregation, Vaughan House. The format of the meeting alternates each month between meetings for the core research group and wider meetings where the invite is extended to other researchers outside of the group with an interest in prediction or causal inference. For the wider group meetings people can volunteer to talk about their research, update about training or conferences they’ve attended or present an interesting journal article for discussion. If you would like to present then there is a sign-up sheet on the Teams space.\nEvery Tuesday lunchtime we have a catch-up in the ground floor kitchen of Vaughan House, 12:30-1pm. These are very informal and just a chance for us all to catch up over lunch or a brew and get to know one another better!\nWe also like to hold regular socials, usually following the monthly meetings. Recent activities have included a board games afternoon, a picnic in the park, and pizza! These are not compulsory but we encourage attendance, it is a great way to get to know the rest of the group! Keep an eye out on the Teams channel for details on upcoming socials. If you have any suggestions for activities then please speak to our social secretaries, Molly & Steph.\nAlongside research group meetings the division holds quarterly open meetings with (free!) lunch. These are a great opportunity to get updates from the divisional leadership, hear about research going on in other groups and meet other staff and students from across the division. All staff and PGR students working in the division are expected to attend, details are usually sent via the division mailing lists.\n\n\n\nMost members of the group work regular hours, 9am-5pm Monday-Friday. As stated above, some may work outside of these hours but we do not expect other staff or students to do the same. Some staff do take advantage of UoM’s flexible working policy and work condensed hours, and so may be unavailable on certain days or times of the week.\nThe majority of the group work in a hybrid manner, with Tuesdays, Wednesdays and Thursdays usually the busiest days in the office. We encourage in-person attendance for meetings where possible, whether that’s individual meetings with your line manager or supervisor, or group meetings. We encourage regular attendance in the office – as a rough guide at least two days per week.\n\n\n\nWe try to be a friendly and approachable group and we encourage everyone to engage with the group during their time with us! Not only does this create a fun and supportive working environment for us all, but it also helps establish collaborations and networks, which is an important part of your development as a researcher. If you have suggestions on how we can be more inclusive, or different ideas concerning events, activities or culture, then please raise this at one of our monthly meetings or speak to your supervisor/line manager.",
-    "crumbs": [
-      "Research Group Culture and Working Environment"
-    ]
-  },
-  {
-    "objectID": "book/lab_culture.html#uom-prediction-modelling-and-causal-inference-group-handbook",
-    "href": "book/lab_culture.html#uom-prediction-modelling-and-causal-inference-group-handbook",
-    "title": "Research Group Culture and Working Environment",
-    "section": "UoM Prediction Modelling and Causal Inference Group Handbook",
-    "text": "UoM Prediction Modelling and Causal Inference Group Handbook",
-    "crumbs": [
-      "Research Group Culture and Working Environment"
-    ]
-  },
-  {
-    "objectID": "book/pubs_confs.html",
-    "href": "book/pubs_confs.html",
-    "title": "Research Dissemination",
-    "section": "",
-    "text": "Here you will find useful information about publishing your findings in peer-reviewed journals, which is an important part of undertaking research. There is also information about attending conferences, which are a great way of disseminating your research and developing your networks with researchers at other institutions.\n\n\nPlease be aware of predatory journals and fake conferences, which may target researchers through unsolicited emails or invitations. These organisations often lack appropriate peer review, editorial oversight, or academic credibility. If you are unsure whether a journal, conference, or training opportunity is legitimate, it is always best to discuss it with your supervisor or a senior colleague before submitting work or making any payments.\n\n\n\nThere a few important things to consider when preparing to submit an article to a journal.\n\n\nChoosing which journal to submit your manuscript too can be time-consuming, as there are a number of things to think about. It is important to decide this early on when preparing your article, as journals can vary considerably in the accepted format (e.g. word count, number of tables and figures, abstract structure etc.) and it can be helpful to tailor your writing to the intended audience.\nAll journals should have their aims and scope stated clearly on their website. Some journals are more focussed on methodology research (e.g. Statistics in Medicine or Diagnostic and Prognostic Research) whilst others are for more clinical or applied research (e.g. International Journal of Clinical Epi, or the British Medical Journal). The JANE tool can be helpful for suggesting appropriate journals, based on either the abstract or keywords. It can also be useful to look at where similar or relevant studies have been published previously, and discuss options with your supervisors or project team.\nAll journals have a rating, called an impact factor, which is based on the average number of citations published articles receive. Whilst some researchers may target journals with a higher impact factor, we recommend you do not base your decision solely on this. Higher impact journals often have long wait times for initial editorial decisions and the peer-review process, and a high impact factor is not necessarily an indicator of higher quality research.\nOnce you have decided on which journal you are going to submit to, make sure you read all the information they provide to authors and follow all the instructions they give you. If you do not, then it may cause delays in the submission process if you are asked to correct anything.\n\n\n\nFollowing reporting guidelines improves the transparency and accuracy of research. There are different guidelines to follow depending on the type of study you are doing. The Enhancing the QUAlity and Transparency Of health Research (EQUATOR) network website lists all the guidelines.\nHere are a few that are most relevant to this group:\n\nThe Transparent Reporting of a multivariable prediction model for Individual Prognosis Or Diagnosis (TRIPOD+AI) statement should be followed for any study developing or evaluating a prediction model. The checklist and explanation of how it was developed can be found here.\nThe The Strengthening the Reporting of Observational Studies in Epidemiology (STROBE) guidelines should be used for any observational study. More info is here.\nThe Preferred Reporting Items for Systematic reviews and Meta-Analyses (PRISMA) should be used for reporting systematic reviews. There is an extension specifically for scoping reviews, which can be found here.\nThe Transparent Reporting of Studies Emulating a Target Trial (TARGET) guidelines have recently been published here.\n\n\n\n\nIf you would like some help with your writing then the academic phrasebank is a great resource. It provides suggestions of phrases and sentence structure for each section of an article or dissertation, for example, how to write critically or report results.\nFor PGR students the university offers training courses for academic writing, which can be found in the training catalogue. The library also offers a few different workshops for writing and referencing, as well as one-to-one consulations.\n\n\n\nDeciding who should be included as an author on an article and the order of the author’s names is important, but can sometimes be a cause for disagreement. It is always a good idea to discuss and agree authorship with your supervisors and collaborators early on in the research process.\nThe University has Authorship guidelines that cover who should (and should not) be included as an author and what the responsibilities are for authors. These are inline with the International Committee of Medical Journal Editors guidance.\nMany journals do have additional guidance on authorship and require the contributions of each author to be stated on a manuscript.\n\n\n\nIn line with the University’s Position Statement on Open Research and Publications Policy (see the Office for Open Research website), researchers are required to publish articles as Open Access. This means that they are available and distributed without any access fees.\nThe University has open access agreements with many journals which means articles can be published Open Access at no cost to the author. If you are submitting an article to a journal not covered by an Open Access agreement then there are funds available to cover costs.\nThere is more information here, about how to access funding, details of Open Access agreements, and how to deposit an accepted manuscript in the Open Access Gateway.\n\n\n\nSome researchers choose to make a pre-print of their articles available before it has been published in a peer-reviewed journal. This can be useful for getting research out into the world promptly, as the peer-review process can take a long time. However, there are some drawbacks so it is advisable to speak to your supervisors or project team if this is something you are considering. medRxivis the most common platform to publish pre-prints, or the Open Science Framework (OSF). Some journals do have the option of making a pre-print available through them when you submit your manuscript for peer-review.\n\n\n\nAll staff and PGR students are expected to set up a Pure profile which contains details of all your qualifications, research interests and research outputs. This will then generate a page for you on the Research Explorer website. For help setting up your PURE profile please see here.\nYou are also required to set up an Open Research and Contributor ID (ORCID) which is a unique identifier that you can use to keep a record of your research activities throughout your career. For more details, including how to claim your ID, see here.\n\n\n\n\n\n\nHere are some conferences that members of the group frequently attend. Attending a conference for the first time can be daunting, if you are unsure about possibly going then please speak to the group - it’s likely other members are planning to attend!\n\nYoung Statistician’s Meeting - YSM is a great conference specifically for ECRs. It’s a bit more relaxed than some of the bigger conferences and there are options to present your research through posters or short talks. The 2026 conference is being hosted by the University of Cambridge, more info is here.\nRoyal Statistical Society International conference - usually held in the UK in September every year. The programme usually contains a lot of medical statistics content, including prediction modelling. There are numerous ways to present your work, through posters or talks, and good networking opportunities! Details of the 2026 conference which is being held in Bournemouth can be found here.\nInternational Society for Clinical Biostatistics conference - ISCB is an annual conference usually held in Europe in late summer (August/September). The 2026 conference will be in Freiburg, Germany. Details are here.\nMethods for Evaluating Models, Tests & Biomarkers - MEMTAB is usually held every 2 years, in Europe. The next meeting will be in July 2027, in Utrecht. Details are not available yet, but will probably be posted here.\n\n\n\n\nCHAI Fest 2026\n\n\nGroup members at the CHAI Fest conference held at the Manchester Museum in June 2026. From left to right: Miriam, Alex, Molly, Jamie, Siân, Pedro, Steph and Matt.\n\n\n\nMost PGR students will have funding allocated for training and research dissemination. The amount will vary depending on the funder, please speak to your supervisor if you are unsure what your budget is and are unsure how best to use it. For research staff funds may be available through the project grant, speak to your line manager or project PI if you would like to access these.\nThe Doctoral Academy has a conference support fund for PGR students, more information can be found here.\nFor post-doctoral research staff the ResDev team also have a dissemination fund. Details of that are here.\n\n\n\nThe University of Manchester uses the Key Travel platform as its designated travel management system for booking business flights, rail travel, and accommodation. Bookings require prior departmental approval and should not be paid out of pocket unless explicitly authorized. Please contact your supervisor in the first instance on who should be approached.\nIf you need any assistance with booking conferences or travel, please speak to the divisional operations team who can be contacted at i.pops@manchester.ac.uk. You will need the project codes for the team to charge bookings to, ask your line manager or supervisor for these codes.",
-    "crumbs": [
-      "Publications and Dissemination"
-    ]
-  },
-  {
-    "objectID": "book/pubs_confs.html#uom-prediction-modelling-and-causal-inference-group-handbook",
-    "href": "book/pubs_confs.html#uom-prediction-modelling-and-causal-inference-group-handbook",
-    "title": "Research Dissemination",
-    "section": "UoM Prediction Modelling and Causal Inference Group Handbook",
-    "text": "UoM Prediction Modelling and Causal Inference Group Handbook",
-    "crumbs": [
-      "Publications and Dissemination"
-    ]
-  },
-  {
-    "objectID": "book/pubs_confs.html#research-integrity-reminder",
-    "href": "book/pubs_confs.html#research-integrity-reminder",
-    "title": "Research Dissemination",
-    "section": "",
-    "text": "Please be aware of predatory journals and fake conferences, which may target researchers through unsolicited emails or invitations. These organisations often lack appropriate peer review, editorial oversight, or academic credibility. If you are unsure whether a journal, conference, or training opportunity is legitimate, it is always best to discuss it with your supervisor or a senior colleague before submitting work or making any payments.",
-    "crumbs": [
-      "Publications and Dissemination"
-    ]
-  },
-  {
-    "objectID": "book/pubs_confs.html#publishing-research-articles",
-    "href": "book/pubs_confs.html#publishing-research-articles",
-    "title": "Research Dissemination",
-    "section": "",
-    "text": "There a few important things to consider when preparing to submit an article to a journal.\n\n\nChoosing which journal to submit your manuscript too can be time-consuming, as there are a number of things to think about. It is important to decide this early on when preparing your article, as journals can vary considerably in the accepted format (e.g. word count, number of tables and figures, abstract structure etc.) and it can be helpful to tailor your writing to the intended audience.\nAll journals should have their aims and scope stated clearly on their website. Some journals are more focussed on methodology research (e.g. Statistics in Medicine or Diagnostic and Prognostic Research) whilst others are for more clinical or applied research (e.g. International Journal of Clinical Epi, or the British Medical Journal). The JANE tool can be helpful for suggesting appropriate journals, based on either the abstract or keywords. It can also be useful to look at where similar or relevant studies have been published previously, and discuss options with your supervisors or project team.\nAll journals have a rating, called an impact factor, which is based on the average number of citations published articles receive. Whilst some researchers may target journals with a higher impact factor, we recommend you do not base your decision solely on this. Higher impact journals often have long wait times for initial editorial decisions and the peer-review process, and a high impact factor is not necessarily an indicator of higher quality research.\nOnce you have decided on which journal you are going to submit to, make sure you read all the information they provide to authors and follow all the instructions they give you. If you do not, then it may cause delays in the submission process if you are asked to correct anything.\n\n\n\nFollowing reporting guidelines improves the transparency and accuracy of research. There are different guidelines to follow depending on the type of study you are doing. The Enhancing the QUAlity and Transparency Of health Research (EQUATOR) network website lists all the guidelines.\nHere are a few that are most relevant to this group:\n\nThe Transparent Reporting of a multivariable prediction model for Individual Prognosis Or Diagnosis (TRIPOD+AI) statement should be followed for any study developing or evaluating a prediction model. The checklist and explanation of how it was developed can be found here.\nThe The Strengthening the Reporting of Observational Studies in Epidemiology (STROBE) guidelines should be used for any observational study. More info is here.\nThe Preferred Reporting Items for Systematic reviews and Meta-Analyses (PRISMA) should be used for reporting systematic reviews. There is an extension specifically for scoping reviews, which can be found here.\nThe Transparent Reporting of Studies Emulating a Target Trial (TARGET) guidelines have recently been published here.\n\n\n\n\nIf you would like some help with your writing then the academic phrasebank is a great resource. It provides suggestions of phrases and sentence structure for each section of an article or dissertation, for example, how to write critically or report results.\nFor PGR students the university offers training courses for academic writing, which can be found in the training catalogue. The library also offers a few different workshops for writing and referencing, as well as one-to-one consulations.\n\n\n\nDeciding who should be included as an author on an article and the order of the author’s names is important, but can sometimes be a cause for disagreement. It is always a good idea to discuss and agree authorship with your supervisors and collaborators early on in the research process.\nThe University has Authorship guidelines that cover who should (and should not) be included as an author and what the responsibilities are for authors. These are inline with the International Committee of Medical Journal Editors guidance.\nMany journals do have additional guidance on authorship and require the contributions of each author to be stated on a manuscript.\n\n\n\nIn line with the University’s Position Statement on Open Research and Publications Policy (see the Office for Open Research website), researchers are required to publish articles as Open Access. This means that they are available and distributed without any access fees.\nThe University has open access agreements with many journals which means articles can be published Open Access at no cost to the author. If you are submitting an article to a journal not covered by an Open Access agreement then there are funds available to cover costs.\nThere is more information here, about how to access funding, details of Open Access agreements, and how to deposit an accepted manuscript in the Open Access Gateway.\n\n\n\nSome researchers choose to make a pre-print of their articles available before it has been published in a peer-reviewed journal. This can be useful for getting research out into the world promptly, as the peer-review process can take a long time. However, there are some drawbacks so it is advisable to speak to your supervisors or project team if this is something you are considering. medRxivis the most common platform to publish pre-prints, or the Open Science Framework (OSF). Some journals do have the option of making a pre-print available through them when you submit your manuscript for peer-review.\n\n\n\nAll staff and PGR students are expected to set up a Pure profile which contains details of all your qualifications, research interests and research outputs. This will then generate a page for you on the Research Explorer website. For help setting up your PURE profile please see here.\nYou are also required to set up an Open Research and Contributor ID (ORCID) which is a unique identifier that you can use to keep a record of your research activities throughout your career. For more details, including how to claim your ID, see here.",
-    "crumbs": [
-      "Publications and Dissemination"
-    ]
-  },
-  {
-    "objectID": "book/pubs_confs.html#conferences",
-    "href": "book/pubs_confs.html#conferences",
-    "title": "Research Dissemination",
-    "section": "",
-    "text": "Here are some conferences that members of the group frequently attend. Attending a conference for the first time can be daunting, if you are unsure about possibly going then please speak to the group - it’s likely other members are planning to attend!\n\nYoung Statistician’s Meeting - YSM is a great conference specifically for ECRs. It’s a bit more relaxed than some of the bigger conferences and there are options to present your research through posters or short talks. The 2026 conference is being hosted by the University of Cambridge, more info is here.\nRoyal Statistical Society International conference - usually held in the UK in September every year. The programme usually contains a lot of medical statistics content, including prediction modelling. There are numerous ways to present your work, through posters or talks, and good networking opportunities! Details of the 2026 conference which is being held in Bournemouth can be found here.\nInternational Society for Clinical Biostatistics conference - ISCB is an annual conference usually held in Europe in late summer (August/September). The 2026 conference will be in Freiburg, Germany. Details are here.\nMethods for Evaluating Models, Tests & Biomarkers - MEMTAB is usually held every 2 years, in Europe. The next meeting will be in July 2027, in Utrecht. Details are not available yet, but will probably be posted here.\n\n\n\n\nCHAI Fest 2026\n\n\nGroup members at the CHAI Fest conference held at the Manchester Museum in June 2026. From left to right: Miriam, Alex, Molly, Jamie, Siân, Pedro, Steph and Matt.\n\n\n\nMost PGR students will have funding allocated for training and research dissemination. The amount will vary depending on the funder, please speak to your supervisor if you are unsure what your budget is and are unsure how best to use it. For research staff funds may be available through the project grant, speak to your line manager or project PI if you would like to access these.\nThe Doctoral Academy has a conference support fund for PGR students, more information can be found here.\nFor post-doctoral research staff the ResDev team also have a dissemination fund. Details of that are here.\n\n\n\nThe University of Manchester uses the Key Travel platform as its designated travel management system for booking business flights, rail travel, and accommodation. Bookings require prior departmental approval and should not be paid out of pocket unless explicitly authorized. Please contact your supervisor in the first instance on who should be approached.\nIf you need any assistance with booking conferences or travel, please speak to the divisional operations team who can be contacted at i.pops@manchester.ac.uk. You will need the project codes for the team to charge bookings to, ask your line manager or supervisor for these codes.",
-    "crumbs": [
-      "Publications and Dissemination"
-    ]
-  },
-  {
-    "objectID": "book/index.html",
-    "href": "book/index.html",
-    "title": "Introduction",
-    "section": "",
-    "text": "This is the handbook for the Prediction Modelling and Causal Inference research group (aka One Prediction) at the University of Manchester, led by Prof Matthew Sperrin, Dr Glen Martin, Dr Dave Jenkins and Dr Siân Bladon. The aim of the handbook is to provide useful information for researchers and students working within the group. The handbook was put together by Siân Bladon and Lana Lai, with input from all group members!\nIf you have any suggestions of any other information that could be added to the handbook then please let Siân know.",
-    "crumbs": [
-      "Home"
-    ]
-  },
-  {
-    "objectID": "book/index.html#uom-prediction-modelling-and-causal-inference-group-handbook",
-    "href": "book/index.html#uom-prediction-modelling-and-causal-inference-group-handbook",
-    "title": "Introduction",
-    "section": "UoM Prediction Modelling and Causal Inference Group Handbook",
-    "text": "UoM Prediction Modelling and Causal Inference Group Handbook",
-    "crumbs": [
-      "Home"
-    ]
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Manchester Prediction Modelling and Causal Inference Group - One Prediction",
-    "section": "",
-    "text": "The Prediction Modelling and Causal Inference research group (aka One Prediction) is based within the Division of Informatics, Imaging and Data Sciences at the University of Manchester. The group is led by Professor Matthew Sperrin, Dr Glen Martin, Dr David Jenkins, and Dr Siân Bladon.\nThe group’s research is focused around clinical prediction modelling and causal inference. There are 5 main themes which are summarised in the graphic below.\nThere are currently around 22 members of the group, including pre-doctoral fellows, PhD students, post-doc research associates and research fellows. The members page has more information about each person in the group, including their publications."
-  },
-  {
-    "objectID": "index.html#whats-happening-recently",
-    "href": "index.html#whats-happening-recently",
-    "title": "Manchester Prediction Modelling and Causal Inference Group - One Prediction",
-    "section": "What’s happening recently",
-    "text": "What’s happening recently\n\n\n\n  \n    \n    \n      \n      \n        News 6\n      \n      \n      \n      Jan 6, 2026\n      \n      \n      \n        \n          \n            \n              News\n            \n          \n        \n      \n\n    \n  \n  \n    \n    \n      \n      \n        News 5\n      \n      \n      \n      Jan 5, 2026\n      \n      \n      \n        \n          \n            \n              News\n            \n          \n        \n      \n\n    \n  \n  \n    \n    \n      \n      \n        Job posting expiring in 2027\n      \n      \n      \n      Jan 5, 2026\n      \n      \n      \n        \n          \n            \n              Jobs\n            \n          \n        \n      \n\n    \n  \n  \n    \n    \n      \n      \n        News 4\n      \n      \n      \n      Jan 4, 2026\n      \n      \n      \n        \n          \n            \n              News\n            \n          \n        \n      \n\n    \n  \n  \n    \n    \n      \n      \n        News 3\n      \n      \n      \n      Jan 3, 2026\n      \n      \n      \n        \n          \n            \n              News\n            \n          \n            \n              Impact\n            \n          \n        \n      \n\n    \n  \n  \n    \n    \n      \n      \n        News 2\n      \n      \n      \n      Jan 2, 2026\n      \n      \n      \n        \n          \n            \n              News\n            \n          \n        \n      \n\n    \n  \n  \n    \n    \n      \n      \n        News 1\n      \n      \n      \n      Jan 1, 2026\n      \n      \n      \n        \n          \n            \n              News\n            \n          \n            \n              Funding\n            \n          \n        \n      \n\n    \n  \n  \n\n\nNo matching items"
-  },
-  {
-    "objectID": "news/2026-01-06-news6/index.html",
-    "href": "news/2026-01-06-news6/index.html",
-    "title": "News 6",
-    "section": "",
-    "text": "Hello\n\n\nNews 6"
-  },
-  {
-    "objectID": "news/2026-01-06-news6/index.html#subsubtitle",
-    "href": "news/2026-01-06-news6/index.html#subsubtitle",
-    "title": "News 6",
-    "section": "",
-    "text": "News 6"
-  },
-  {
-    "objectID": "news/2026-01-06-job2/index.html",
-    "href": "news/2026-01-06-job2/index.html",
-    "title": "Job posting expiring in 2027",
-    "section": "",
-    "text": "This job posting expires in 2027, and show show up until then."
-  },
-  {
-    "objectID": "news/2026-01-03-news3/index.html",
-    "href": "news/2026-01-03-news3/index.html",
-    "title": "News 3",
-    "section": "",
-    "text": "News 3"
-  },
-  {
-    "objectID": "news/2026-01-05-news5/index.html",
-    "href": "news/2026-01-05-news5/index.html",
-    "title": "News 5",
-    "section": "",
-    "text": "News 5"
-  },
-  {
-    "objectID": "news/index.html",
-    "href": "news/index.html",
-    "title": "Lab News",
-    "section": "",
-    "text": "News 6\n      \n      \n      \n      Jan 6, 2026\n      \n      \n      \n        \n          \n            \n              News\n            \n          \n        \n      \n\n    \n  \n  \n    \n    \n      \n      \n        News 5\n      \n      \n      \n      Jan 5, 2026\n      \n      \n      \n        \n          \n            \n              News\n            \n          \n        \n      \n\n    \n  \n  \n    \n    \n      \n      \n        Job posting expiring in 2027\n      \n      \n      \n      Jan 5, 2026\n      \n      \n      \n        \n          \n            \n              Jobs\n            \n          \n        \n      \n\n    \n  \n  \n    \n    \n      \n      \n        News 4\n      \n      \n      \n      Jan 4, 2026\n      \n      \n      \n        \n          \n            \n              News\n            \n          \n        \n      \n\n    \n  \n  \n    \n    \n      \n      \n        News 3\n      \n      \n      \n      Jan 3, 2026\n      \n      \n      \n        \n          \n            \n              News\n            \n          \n            \n              Impact\n            \n          \n        \n      \n\n    \n  \n  \n    \n    \n      \n      \n        News 2\n      \n      \n      \n      Jan 2, 2026\n      \n      \n      \n        \n          \n            \n              News\n            \n          \n        \n      \n\n    \n  \n  \n    \n    \n      \n      \n        News 1\n      \n      \n      \n      Jan 1, 2026\n      \n      \n      \n        \n          \n            \n              News\n            \n          \n            \n              Funding\n            \n          \n        \n      \n\n    \n  \n  \n\n\nNo matching items"
-  },
-  {
-    "objectID": "news/2026-01-01-news1/index.html",
-    "href": "news/2026-01-01-news1/index.html",
-    "title": "News 1",
-    "section": "",
-    "text": "News 1"
-  },
-  {
-    "objectID": "news/2026-01-05-job1/index.html",
-    "href": "news/2026-01-05-job1/index.html",
-    "title": "Expired Job Posting",
-    "section": "",
-    "text": "This job posting should be expired and shouldn’t show up."
+    "text": "News 2"
   },
   {
     "objectID": "news/2026-01-04-news4/index.html",
@@ -244,31 +14,32 @@
     "text": "News 4"
   },
   {
-    "objectID": "news/2026-01-02-news2/index.html",
-    "href": "news/2026-01-02-news2/index.html",
-    "title": "News 2",
+    "objectID": "news/2026-01-05-job1/index.html",
+    "href": "news/2026-01-05-job1/index.html",
+    "title": "Expired Job Posting",
     "section": "",
-    "text": "News 2"
+    "text": "This job posting should be expired and shouldn’t show up."
   },
   {
-    "objectID": "book/code_reprod.html",
-    "href": "book/code_reprod.html",
-    "title": "Open and Reproducible Research",
+    "objectID": "news/2026-01-05-news5/index.html",
+    "href": "news/2026-01-05-news5/index.html",
+    "title": "News 5",
     "section": "",
-    "text": "This page will contain information about how we can conduct our research in an open and reproducible manner. This will include using Github for version control and code sharing, registering study protocols and analysis plans online prior to starting a new research project, and the use of reporting guidelines.",
-    "crumbs": [
-      "Coding and Reproducible Research"
-    ]
+    "text": "News 5"
   },
   {
-    "objectID": "book/code_reprod.html#uom-prediction-modelling-and-causal-inference-group-handbook",
-    "href": "book/code_reprod.html#uom-prediction-modelling-and-causal-inference-group-handbook",
-    "title": "Open and Reproducible Research",
-    "section": "UoM Prediction Modelling and Causal Inference Group Handbook",
-    "text": "UoM Prediction Modelling and Causal Inference Group Handbook",
-    "crumbs": [
-      "Coding and Reproducible Research"
-    ]
+    "objectID": "news/2026-01-06-job2/index.html",
+    "href": "news/2026-01-06-job2/index.html",
+    "title": "Job posting expiring in 2027",
+    "section": "",
+    "text": "This job posting expires in 2027, and show show up until then."
+  },
+  {
+    "objectID": "past-members/someone/index.html",
+    "href": "past-members/someone/index.html",
+    "title": "Name",
+    "section": "",
+    "text": "Biography\nGoodbye\n\n\nPublications\n\nLoading publications from ORCID…"
   },
   {
     "objectID": "book/resources.html",
@@ -341,6 +112,233 @@
     ]
   },
   {
+    "objectID": "book/funding.html",
+    "href": "book/funding.html",
+    "title": "Funding",
+    "section": "",
+    "text": "This page will contain details of common funding sources, including for project grants and fellowships.",
+    "crumbs": [
+      "Funding"
+    ]
+  },
+  {
+    "objectID": "book/funding.html#uom-prediction-modelling-and-causal-inference-group-handbook",
+    "href": "book/funding.html#uom-prediction-modelling-and-causal-inference-group-handbook",
+    "title": "Funding",
+    "section": "UoM Prediction Modelling and Causal Inference Group Handbook",
+    "text": "UoM Prediction Modelling and Causal Inference Group Handbook",
+    "crumbs": [
+      "Funding"
+    ]
+  },
+  {
+    "objectID": "book/lab_culture.html",
+    "href": "book/lab_culture.html",
+    "title": "Research Group Culture and Working Environment",
+    "section": "",
+    "text": "Most members of the group mainly use emails and Teams to communicate. We have a Teams space for the group, which is where people can share relevant papers, seminars, training resources or anything else that may be of interest to the group. You can also use this space to ask questions or get advice on any code or data issues you may be struggling with. Please ask Matt, Glen, Dave or Siân to add you to the channel if you have not been added already!\nSome members of the group may work and send emails outside of core working hours, however, please do not feel obliged to reply to these emails outside of your usual working hours!\nIf you are taking any leave then please put an out-of-office message on your Outlook, letting people know you are not available and when you will be back in the office. Although some group members may read and send emails when they are on leave, this is discouraged. Taking time away from your work/studies is important and we encourage you to switch off entirely!\n\n\n\nIf you are a PhD student or post-doc on a project, you will have regular meetings with your supervisors, line manager, and/or other relevant colleagues. The frequency of these meetings will be by mutual agreement.\nWhere the meeting is about ‘your’ project, you are expected to prepare and share an agenda before the meeting (at least 24 hours in advance) and circulate brief minutes and actions after the meeting (within 3 working days). If you wish to cancel a meeting, please give as much notice as possible, so that colleagues can reallocate the time slot. A lack of progress is not a good reason to cancel a meeting (it is even more important to meet in this case!); progress includes trying different approaches that fail.\nFor writing an agenda, a useful template is the ‘3 Ps’:\n\nProgress: what progress has been made since the last meeting?\nProblems: what challenges have you encountered? What are your proposed solutions?\nPlan: what do you plan to do between now and the next meeting?\n\nSome people like to prepare a slide deck to structure a meeting – this is not essential but can be a nice way to structure the meeting and maximise its productivity.\n\n\n\nYou will often require feedback from other colleagues (or your supervisor/line manager) on work you have prepared. Here are a few useful tips for when you are asking for feedback:\n\nIt is useful to clarify what type of feedback you are looking for. E.g., ‘is this in the right direction’ versus detailed in-line feedback on a draft paper. We encourage sharing documents early and often.\nShare documents using shared folders in OneDrive/SharePoint, rather than attaching them to emails. This helps with version control, especially when multiple people are commenting and editing.\nYou should always set a deadline for when you want the feedback returned, including with more senior colleagues. A reasonable deadline is two weeks. Longer deadlines may be required over holiday times and for long documents. If you will need something turned around faster, it is good to prepare people ahead of time for this (e.g., “I will share a draft paper two weeks on Monday and will need the feedback on Friday”).\n\n\n\n\nUse of AI in research is a fast-developing and controversial topic. Even within the group, there is a divergence of views on how it should be used. Some general principles:\n\nAI is a supportive tool and should not be used to replace your academic judgement. AI outputs will include a mixture of good and bad, relevant and irrelevant, suggestions. Anything that you share where AI assisted its creation is fully your responsibility and you should verify all contents. This obviously includes cited research!\nPlaces where AI can be particularly helpful include:\n\nBrainstorming and planning o Help debugging and writing code\nChecking grammar, and giving suggestions on making text more concise (e.g., to meet a word limit, but obviously check the suggestions)\nSummarising a paper (to help decide whether it’s worth reading in detail)\n\nIf you are unsure, take advice from a supervisor/line manager/senior colleague. You should also be transparent about when and how AI tools have been used.\nRemember that Microsoft Copilot is preferred for use as data placed in Copilot is protected (stays within university file systems). The University is in the process of rolling out Copilot licences to all staff and students.\n\nThe University has developed guidelines for staff and students using or developing AI. These can be found in the PGR Code of Practice and the Staff AI Hub. The guidelines include five principles of appropriate AI use which all staff and students are personally responsible for adhering to, as well as guidance on how to apply these principles to teaching and research.\n\n\n\nThe group meets once a month, usually on the third Thursday at 3pm in the Congregation, Vaughan House. The format of the meeting alternates each month between meetings for the core research group and wider meetings where the invite is extended to other researchers outside of the group with an interest in prediction or causal inference. For the wider group meetings people can volunteer to talk about their research, update about training or conferences they’ve attended or present an interesting journal article for discussion. If you would like to present then there is a sign-up sheet on the Teams space.\nEvery Tuesday lunchtime we have a catch-up in the ground floor kitchen of Vaughan House, 12:30-1pm. These are very informal and just a chance for us all to catch up over lunch or a brew and get to know one another better!\nWe also like to hold regular socials, usually following the monthly meetings. Recent activities have included a board games afternoon, a picnic in the park, and pizza! These are not compulsory but we encourage attendance, it is a great way to get to know the rest of the group! Keep an eye out on the Teams channel for details on upcoming socials. If you have any suggestions for activities then please speak to our social secretaries, Molly & Steph.\nAlongside research group meetings the division holds quarterly open meetings with (free!) lunch. These are a great opportunity to get updates from the divisional leadership, hear about research going on in other groups and meet other staff and students from across the division. All staff and PGR students working in the division are expected to attend, details are usually sent via the division mailing lists.\n\n\n\nMost members of the group work regular hours, 9am-5pm Monday-Friday. As stated above, some may work outside of these hours but we do not expect other staff or students to do the same. Some staff do take advantage of UoM’s flexible working policy and work condensed hours, and so may be unavailable on certain days or times of the week.\nThe majority of the group work in a hybrid manner, with Tuesdays, Wednesdays and Thursdays usually the busiest days in the office. We encourage in-person attendance for meetings where possible, whether that’s individual meetings with your line manager or supervisor, or group meetings. We encourage regular attendance in the office – as a rough guide at least two days per week.\n\n\n\nWe try to be a friendly and approachable group and we encourage everyone to engage with the group during their time with us! Not only does this create a fun and supportive working environment for us all, but it also helps establish collaborations and networks, which is an important part of your development as a researcher. If you have suggestions on how we can be more inclusive, or different ideas concerning events, activities or culture, then please raise this at one of our monthly meetings or speak to your supervisor/line manager.",
+    "crumbs": [
+      "Research Group Culture and Working Environment"
+    ]
+  },
+  {
+    "objectID": "book/lab_culture.html#uom-prediction-modelling-and-causal-inference-group-handbook",
+    "href": "book/lab_culture.html#uom-prediction-modelling-and-causal-inference-group-handbook",
+    "title": "Research Group Culture and Working Environment",
+    "section": "UoM Prediction Modelling and Causal Inference Group Handbook",
+    "text": "UoM Prediction Modelling and Causal Inference Group Handbook",
+    "crumbs": [
+      "Research Group Culture and Working Environment"
+    ]
+  },
+  {
+    "objectID": "book/code_reprod.html",
+    "href": "book/code_reprod.html",
+    "title": "Open and Reproducible Research",
+    "section": "",
+    "text": "This page will contain information about how we can conduct our research in an open and reproducible manner. This will include using Github for version control and code sharing, registering study protocols and analysis plans online prior to starting a new research project, and the use of reporting guidelines.",
+    "crumbs": [
+      "Coding and Reproducible Research"
+    ]
+  },
+  {
+    "objectID": "book/code_reprod.html#uom-prediction-modelling-and-causal-inference-group-handbook",
+    "href": "book/code_reprod.html#uom-prediction-modelling-and-causal-inference-group-handbook",
+    "title": "Open and Reproducible Research",
+    "section": "UoM Prediction Modelling and Causal Inference Group Handbook",
+    "text": "UoM Prediction Modelling and Causal Inference Group Handbook",
+    "crumbs": [
+      "Coding and Reproducible Research"
+    ]
+  },
+  {
+    "objectID": "members/davidjenkins/index.html",
+    "href": "members/davidjenkins/index.html",
+    "title": "David A. Jenkins",
+    "section": "",
+    "text": "Biography\nDavid Jenkins is a Senior Lecturer in Health Data Science in the Division of Informatics, Imaging and Data Sciences. His research focuses on methodology for development, updating, monitoring and fairness of clinical prediction models, as well as developing models for use in healthcare. He holds a PhD in Health Data Science from the University of Manchester and an MSc in Medical Statistics from the University of Leicester. He is the University of Manchester Digital Health Lead for N8 CIR, a Divisional Tutor and a Fellow of the Higher Education Academy.\n\n\nPublications\n\nLoading publications from ORCID…"
+  },
+  {
+    "objectID": "members/kritchavatploddi/index.html",
+    "href": "members/kritchavatploddi/index.html",
+    "title": "Kritchavat Ploddi",
+    "section": "",
+    "text": "Biography\nHello\n\n\nPublications\n\nLoading publications from ORCID…"
+  },
+  {
+    "objectID": "members/stephriley/index.html",
+    "href": "members/stephriley/index.html",
+    "title": "Steph Riley",
+    "section": "",
+    "text": "Biography\nSteph’s research interests are in causal inference methods to address generalisability and transportability problems in treatment effect estimation and prediction models, to support fair and equitable healthcare. She also enjoys survival analysis, particularly competing risks and multistate models.\n\n\nPublications\n\nLoading publications from ORCID…"
+  },
+  {
+    "objectID": "members/mollywells/index.html",
+    "href": "members/mollywells/index.html",
+    "title": "Molly Wells",
+    "section": "",
+    "text": "Biography\nMolly is a Postdoctoral Research Associate in Medical Statistics in the Division of Informatics, Imaging and Data Science at the University of Manchester. Molly recently graduated with a PhD from the University of Leicester which focused on methods to improve the estimation of cancer survival, particularly in the presence of competing risks. Molly is a former NIHR pre-doctoral fellow from the University of Leicester with a MSc in Medical Statistics with specialisation in health technology assessments. Molly’s research interests are in the fairness of clinical prediction models, as well as causal inference and survival analysis methods.\n\n\nPublications\n\nLoading publications from ORCID…"
+  },
+  {
+    "objectID": "members/fangyuanzhang/index.html",
+    "href": "members/fangyuanzhang/index.html",
+    "title": "Fangyuan Zhang",
+    "section": "",
+    "text": "Biography\nHello\n\n\nPublications\n\nLoading publications from ORCID…"
+  },
+  {
+    "objectID": "members/lanalai/index.html",
+    "href": "members/lanalai/index.html",
+    "title": "Lana Lai",
+    "section": "",
+    "text": "Biography\nHello\n\n\nPublications\n\nLoading publications from ORCID…"
+  },
+  {
+    "objectID": "members/phcavelar/index.html",
+    "href": "members/phcavelar/index.html",
+    "title": "Pedro Henrique da Costa Avelar",
+    "section": "",
+    "text": "Biography\nPedro is interested in developing causal representation learning and neuro-symbolic methods to improve the generalisability, fairness, and interpretability of medical AI. His past experience includes using Graph Neural Networks and Transformers for symbolic problems and computer vision, multi-omics integration and prior-knowledge-based omics analysis, and analysing biases in Machine Translation.\n\n\nPublications\n\nLoading publications from ORCID…"
+  },
+  {
+    "objectID": "members/brightchiemezieofoha/index.html",
+    "href": "members/brightchiemezieofoha/index.html",
+    "title": "Bright Chiemezie Ofoha",
+    "section": "",
+    "text": "Biography\nHello\n\n\nPublications\n\nLoading publications from ORCID…"
+  },
+  {
+    "objectID": "members/glenmartin/index.html",
+    "href": "members/glenmartin/index.html",
+    "title": "Glen Martin",
+    "section": "",
+    "text": "Biography\nGlen is a Senior Lecturer in Health Data Science in the Division of Informatics, Imaging and Data Science at the University of Manchester. His research focuses on developing methodology for clinical risk prediction models, with expertise in multivariate modelling, missing data, and model translation. He holds a PhD in Health Data Science and is a Chartered Statistics. He is Programme Director for the MSc Health Informatics programme, jointly delivered with UCL, and is a Fellow of the Higher Education Academy.\n\n\nPublications\n\nLoading publications from ORCID…"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Manchester Prediction Modelling and Causal Inference Group - One Prediction",
+    "section": "",
+    "text": "The Prediction Modelling and Causal Inference research group (aka One Prediction) is based within the Division of Informatics, Imaging and Data Sciences at the University of Manchester. The group is led by Professor Matthew Sperrin, Dr Glen Martin, Dr David Jenkins, and Dr Siân Bladon.\nThe group’s research is focused around clinical prediction modelling and causal inference. There are 5 main themes which are summarised in the graphic below.\nThere are currently around 22 members of the group, including pre-doctoral fellows, PhD students, post-doc research associates and research fellows. The members page has more information about each person in the group, including their publications."
+  },
+  {
+    "objectID": "index.html#whats-happening-recently",
+    "href": "index.html#whats-happening-recently",
+    "title": "Manchester Prediction Modelling and Causal Inference Group - One Prediction",
+    "section": "What’s happening recently",
+    "text": "What’s happening recently\n\n\n\n  \n    \n    \n      \n      \n        Post-doc Appreciation Week\n      \n      \n      \n      Sep 24, 2026\n      \n      \n      \n        \n          \n            \n              News\n            \n          \n        \n      \n\n    \n  \n  \n    \n    \n      \n      \n        News 6\n      \n      \n      \n      Jan 6, 2026\n      \n      \n      \n        \n          \n            \n              News\n            \n          \n        \n      \n\n    \n  \n  \n    \n    \n      \n      \n        News 5\n      \n      \n      \n      Jan 5, 2026\n      \n      \n      \n        \n          \n            \n              News\n            \n          \n        \n      \n\n    \n  \n  \n    \n    \n      \n      \n        Job posting expiring in 2027\n      \n      \n      \n      Jan 5, 2026\n      \n      \n      \n        \n          \n            \n              Jobs\n            \n          \n        \n      \n\n    \n  \n  \n    \n    \n      \n      \n        News 4\n      \n      \n      \n      Jan 4, 2026\n      \n      \n      \n        \n          \n            \n              News\n            \n          \n        \n      \n\n    \n  \n  \n    \n    \n      \n      \n        News 3\n      \n      \n      \n      Jan 3, 2026\n      \n      \n      \n        \n          \n            \n              News\n            \n          \n            \n              Impact\n            \n          \n        \n      \n\n    \n  \n  \n    \n    \n      \n      \n        News 2\n      \n      \n      \n      Jan 2, 2026\n      \n      \n      \n        \n          \n            \n              News\n            \n          \n        \n      \n\n    \n  \n  \n    \n    \n      \n      \n        News 1\n      \n      \n      \n      Jan 1, 2026\n      \n      \n      \n        \n          \n            \n              News\n            \n          \n            \n              Funding\n            \n          \n        \n      \n\n    \n  \n  \n\n\nNo matching items"
+  },
+  {
+    "objectID": "members/ziyiding/index.html",
+    "href": "members/ziyiding/index.html",
+    "title": "Ziyi Ding",
+    "section": "",
+    "text": "Biography\nHello\n\n\nPublications\n\nLoading publications from ORCID…"
+  },
+  {
+    "objectID": "members/chantellecornett/index.html",
+    "href": "members/chantellecornett/index.html",
+    "title": "Chantelle Cornett",
+    "section": "",
+    "text": "Biography\nHello\n\n\nPublications\n\nLoading publications from ORCID…"
+  },
+  {
+    "objectID": "members/sianbladdon/index.html",
+    "href": "members/sianbladdon/index.html",
+    "title": "Siân Bladon",
+    "section": "",
+    "text": "Biography\nSian is an experienced health data scientist currently working as a Lecturer in Health Data Sciences within the Division of Informatics, Imaging and Data Science at the University of Manchester. Sian previously worked as a PDRA on the CONNECT project, developing a clinical prediction model to predict the risk of relapse in people with psychosis using data collected through wearable devices and smartphones. Her current research interests focus on addressing the challenges of incorporating high-frequency data (e.g. from wearable devices) into clinical prediction models. Sian teaches primarily on the MSc Health Data Science and Health Informatics programmes, contributing to teaching on statistics, data visualisation, data linkage and digital transformation.\n\n\nPublications\n\nLoading publications from ORCID…"
+  },
+  {
+    "objectID": "members/alexpate/index.html",
+    "href": "members/alexpate/index.html",
+    "title": "Alexander Pate",
+    "section": "",
+    "text": "Biography\nAlex’s interests centre around clinical prediction modelling, including quantifying uncertainty, model evaluation, multi-outcome prediction and prediction-under-intervention; as well as the design of simulation studies, and developing software to translate statistical methodology into usable outputs.\n\n\nPublications\n\nLoading publications from ORCID…"
+  },
+  {
+    "objectID": "members/miriamngarega/index.html",
+    "href": "members/miriamngarega/index.html",
+    "title": "Miriam Ngarega",
+    "section": "",
+    "text": "Biography\nMiriam is an epidemiologist by training, with an interest in making better use of clinical trials to generate patient-relevant and actionable evidence. Her PhD research focuses on how routine data can be used to provide evidence on outcomes that cannot be evaluated in trials and to improve the statistical efficiency of clinical trials.\n\n\nPublications\n\nLoading publications from ORCID…"
+  },
+  {
+    "objectID": "members/samanthapacynko/index.html",
+    "href": "members/samanthapacynko/index.html",
+    "title": "Samantha Pacynko",
+    "section": "",
+    "text": "Biography\nSam is a research assistant in the Division of Informatics, Imaging and Data Science at the University of Manchester. She is currently funded by the National Institute for Health and Care Research (NIHR) Predoctoral Award to enable her to undertake a programme of training and development to advance her career as an aspiring methodologist with a focus on prediction modelling.\n\n\nPublications\n\nLoading publications from ORCID…"
+  },
+  {
+    "objectID": "members/yusufyildiz/index.html",
+    "href": "members/yusufyildiz/index.html",
+    "title": "Yusuf Yildiz",
+    "section": "",
+    "text": "Biography\nYusuf is a PhD student specialising in clinical prediction using electronic health records, with a focus on transformer-based models and large language models for healthcare applications. His research interests includes digital health, machine learning, and the responsible use of artificial intelligence in clinical decision-making.\n\n\nPublications\n\nLoading publications from ORCID…"
+  },
+  {
+    "objectID": "members/christinadiomatari/index.html",
+    "href": "members/christinadiomatari/index.html",
+    "title": "Christina Diomatari",
+    "section": "",
+    "text": "Biography\nHello\n\n\nPublications\n\nLoading publications from ORCID…"
+  },
+  {
+    "objectID": "members/matthewsperrin/index.html",
+    "href": "members/matthewsperrin/index.html",
+    "title": "Matthew Sperrin",
+    "section": "",
+    "text": "Biography\nMatt Sperrin is Professor of Biostatistics and Health Data Science at University of Manchester. Matt is a statistician by background, with research interests at the intersection of prediction modelling and causal inference. He is especially interested in how causal inference can be used to allow prediction under intervention (i.e., what would be the risk IF…), and how causal principles can help to ensure prediction models are generalisable and fair. He programme directs the MSc Health Data Science, and co-leads CHAI (the causality in healthcare AI hub).\n\n\nPublications\n\nLoading publications from ORCID…"
+  },
+  {
+    "objectID": "members/jamiepaterson/index.html",
+    "href": "members/jamiepaterson/index.html",
+    "title": "Jamie Paterson",
+    "section": "",
+    "text": "Biography\nJamie is a PDRA in Medical Statistics at the University of Manchester, currently working on the RESHAPE-CARE project, using causal inference methods to contribute to the development of a systems-engineering approach to modelling patients with multiple long-term health conditions. He completed a PhD in Mathematical Biology, where his research focused on developing a within-host model of inhalational anthrax infection and modelling the epidemiology of viral infection in a closed population. As a qualified teacher, Jamie has a particular interest in the development and delivery of high-quality teaching, and in exploring how education can adapt to the opportunities and challenges presented by the growing use of AI.\n\n\nPublications\n\nLoading publications from ORCID…"
+  },
+  {
+    "objectID": "book/index.html",
+    "href": "book/index.html",
+    "title": "Introduction",
+    "section": "",
+    "text": "This is the handbook for the Prediction Modelling and Causal Inference research group (aka One Prediction) at the University of Manchester, led by Prof Matthew Sperrin, Dr Glen Martin, Dr Dave Jenkins and Dr Siân Bladon. The aim of the handbook is to provide useful information for researchers and students working within the group. The handbook was put together by Siân Bladon and Lana Lai, with input from all group members!\nIf you have any suggestions of any other information that could be added to the handbook then please let Siân know.",
+    "crumbs": [
+      "Home"
+    ]
+  },
+  {
+    "objectID": "book/index.html#uom-prediction-modelling-and-causal-inference-group-handbook",
+    "href": "book/index.html#uom-prediction-modelling-and-causal-inference-group-handbook",
+    "title": "Introduction",
+    "section": "UoM Prediction Modelling and Causal Inference Group Handbook",
+    "text": "UoM Prediction Modelling and Causal Inference Group Handbook",
+    "crumbs": [
+      "Home"
+    ]
+  },
+  {
     "objectID": "book/computing.html",
     "href": "book/computing.html",
     "title": "Data Access, Data Storage, and Computing Resources",
@@ -361,23 +359,53 @@
     ]
   },
   {
-    "objectID": "book/funding.html",
-    "href": "book/funding.html",
-    "title": "Funding",
+    "objectID": "book/pubs_confs.html",
+    "href": "book/pubs_confs.html",
+    "title": "Research Dissemination",
     "section": "",
-    "text": "This page will contain details of common funding sources, including for project grants and fellowships.",
+    "text": "Here you will find useful information about publishing your findings in peer-reviewed journals, which is an important part of undertaking research. There is also information about attending conferences, which are a great way of disseminating your research and developing your networks with researchers at other institutions.\n\n\nPlease be aware of predatory journals and fake conferences, which may target researchers through unsolicited emails or invitations. These organisations often lack appropriate peer review, editorial oversight, or academic credibility. If you are unsure whether a journal, conference, or training opportunity is legitimate, it is always best to discuss it with your supervisor or a senior colleague before submitting work or making any payments.\n\n\n\nThere a few important things to consider when preparing to submit an article to a journal.\n\n\nChoosing which journal to submit your manuscript too can be time-consuming, as there are a number of things to think about. It is important to decide this early on when preparing your article, as journals can vary considerably in the accepted format (e.g. word count, number of tables and figures, abstract structure etc.) and it can be helpful to tailor your writing to the intended audience.\nAll journals should have their aims and scope stated clearly on their website. Some journals are more focussed on methodology research (e.g. Statistics in Medicine or Diagnostic and Prognostic Research) whilst others are for more clinical or applied research (e.g. International Journal of Clinical Epi, or the British Medical Journal). The JANE tool can be helpful for suggesting appropriate journals, based on either the abstract or keywords. It can also be useful to look at where similar or relevant studies have been published previously, and discuss options with your supervisors or project team.\nAll journals have a rating, called an impact factor, which is based on the average number of citations published articles receive. Whilst some researchers may target journals with a higher impact factor, we recommend you do not base your decision solely on this. Higher impact journals often have long wait times for initial editorial decisions and the peer-review process, and a high impact factor is not necessarily an indicator of higher quality research.\nOnce you have decided on which journal you are going to submit to, make sure you read all the information they provide to authors and follow all the instructions they give you. If you do not, then it may cause delays in the submission process if you are asked to correct anything.\n\n\n\nFollowing reporting guidelines improves the transparency and accuracy of research. There are different guidelines to follow depending on the type of study you are doing. The Enhancing the QUAlity and Transparency Of health Research (EQUATOR) network website lists all the guidelines.\nHere are a few that are most relevant to this group:\n\nThe Transparent Reporting of a multivariable prediction model for Individual Prognosis Or Diagnosis (TRIPOD+AI) statement should be followed for any study developing or evaluating a prediction model. The checklist and explanation of how it was developed can be found here.\nThe The Strengthening the Reporting of Observational Studies in Epidemiology (STROBE) guidelines should be used for any observational study. More info is here.\nThe Preferred Reporting Items for Systematic reviews and Meta-Analyses (PRISMA) should be used for reporting systematic reviews. There is an extension specifically for scoping reviews, which can be found here.\nThe Transparent Reporting of Studies Emulating a Target Trial (TARGET) guidelines have recently been published here.\n\n\n\n\nIf you would like some help with your writing then the academic phrasebank is a great resource. It provides suggestions of phrases and sentence structure for each section of an article or dissertation, for example, how to write critically or report results.\nFor PGR students the university offers training courses for academic writing, which can be found in the training catalogue. The library also offers a few different workshops for writing and referencing, as well as one-to-one consulations.\n\n\n\nDeciding who should be included as an author on an article and the order of the author’s names is important, but can sometimes be a cause for disagreement. It is always a good idea to discuss and agree authorship with your supervisors and collaborators early on in the research process.\nThe University has Authorship guidelines that cover who should (and should not) be included as an author and what the responsibilities are for authors. These are inline with the International Committee of Medical Journal Editors guidance.\nMany journals do have additional guidance on authorship and require the contributions of each author to be stated on a manuscript.\n\n\n\nIn line with the University’s Position Statement on Open Research and Publications Policy (see the Office for Open Research website), researchers are required to publish articles as Open Access. This means that they are available and distributed without any access fees.\nThe University has open access agreements with many journals which means articles can be published Open Access at no cost to the author. If you are submitting an article to a journal not covered by an Open Access agreement then there are funds available to cover costs.\nThere is more information here, about how to access funding, details of Open Access agreements, and how to deposit an accepted manuscript in the Open Access Gateway.\n\n\n\nSome researchers choose to make a pre-print of their articles available before it has been published in a peer-reviewed journal. This can be useful for getting research out into the world promptly, as the peer-review process can take a long time. However, there are some drawbacks so it is advisable to speak to your supervisors or project team if this is something you are considering. medRxivis the most common platform to publish pre-prints, or the Open Science Framework (OSF). Some journals do have the option of making a pre-print available through them when you submit your manuscript for peer-review.\n\n\n\nAll staff and PGR students are expected to set up a Pure profile which contains details of all your qualifications, research interests and research outputs. This will then generate a page for you on the Research Explorer website. For help setting up your PURE profile please see here.\nYou are also required to set up an Open Research and Contributor ID (ORCID) which is a unique identifier that you can use to keep a record of your research activities throughout your career. For more details, including how to claim your ID, see here.\n\n\n\n\n\n\nHere are some conferences that members of the group frequently attend. Attending a conference for the first time can be daunting, if you are unsure about possibly going then please speak to the group - it’s likely other members are planning to attend!\n\nYoung Statistician’s Meeting - YSM is a great conference specifically for ECRs. It’s a bit more relaxed than some of the bigger conferences and there are options to present your research through posters or short talks. The 2026 conference is being hosted by the University of Cambridge, more info is here.\nRoyal Statistical Society International conference - usually held in the UK in September every year. The programme usually contains a lot of medical statistics content, including prediction modelling. There are numerous ways to present your work, through posters or talks, and good networking opportunities! Details of the 2026 conference which is being held in Bournemouth can be found here.\nInternational Society for Clinical Biostatistics conference - ISCB is an annual conference usually held in Europe in late summer (August/September). The 2026 conference will be in Freiburg, Germany. Details are here.\nMethods for Evaluating Models, Tests & Biomarkers - MEMTAB is usually held every 2 years, in Europe. The next meeting will be in July 2027, in Utrecht. Details are not available yet, but will probably be posted here.\n\n\n\n\nCHAI Fest 2026\n\n\nGroup members at the CHAI Fest conference held at the Manchester Museum in June 2026. From left to right: Miriam, Alex, Molly, Jamie, Siân, Pedro, Steph and Matt.\n\n\n\nMost PGR students will have funding allocated for training and research dissemination. The amount will vary depending on the funder, please speak to your supervisor if you are unsure what your budget is and are unsure how best to use it. For research staff funds may be available through the project grant, speak to your line manager or project PI if you would like to access these.\nThe Doctoral Academy has a conference support fund for PGR students, more information can be found here.\nFor post-doctoral research staff the ResDev team also have a dissemination fund. Details of that are here.\n\n\n\nThe University of Manchester uses the Key Travel platform as its designated travel management system for booking business flights, rail travel, and accommodation. Bookings require prior departmental approval and should not be paid out of pocket unless explicitly authorized. Please contact your supervisor in the first instance on who should be approached.\nIf you need any assistance with booking conferences or travel, please speak to the divisional operations team who can be contacted at i.pops@manchester.ac.uk. You will need the project codes for the team to charge bookings to, ask your line manager or supervisor for these codes.",
     "crumbs": [
-      "Funding"
+      "Publications and Dissemination"
     ]
   },
   {
-    "objectID": "book/funding.html#uom-prediction-modelling-and-causal-inference-group-handbook",
-    "href": "book/funding.html#uom-prediction-modelling-and-causal-inference-group-handbook",
-    "title": "Funding",
+    "objectID": "book/pubs_confs.html#uom-prediction-modelling-and-causal-inference-group-handbook",
+    "href": "book/pubs_confs.html#uom-prediction-modelling-and-causal-inference-group-handbook",
+    "title": "Research Dissemination",
     "section": "UoM Prediction Modelling and Causal Inference Group Handbook",
     "text": "UoM Prediction Modelling and Causal Inference Group Handbook",
     "crumbs": [
-      "Funding"
+      "Publications and Dissemination"
+    ]
+  },
+  {
+    "objectID": "book/pubs_confs.html#research-integrity-reminder",
+    "href": "book/pubs_confs.html#research-integrity-reminder",
+    "title": "Research Dissemination",
+    "section": "",
+    "text": "Please be aware of predatory journals and fake conferences, which may target researchers through unsolicited emails or invitations. These organisations often lack appropriate peer review, editorial oversight, or academic credibility. If you are unsure whether a journal, conference, or training opportunity is legitimate, it is always best to discuss it with your supervisor or a senior colleague before submitting work or making any payments.",
+    "crumbs": [
+      "Publications and Dissemination"
+    ]
+  },
+  {
+    "objectID": "book/pubs_confs.html#publishing-research-articles",
+    "href": "book/pubs_confs.html#publishing-research-articles",
+    "title": "Research Dissemination",
+    "section": "",
+    "text": "There a few important things to consider when preparing to submit an article to a journal.\n\n\nChoosing which journal to submit your manuscript too can be time-consuming, as there are a number of things to think about. It is important to decide this early on when preparing your article, as journals can vary considerably in the accepted format (e.g. word count, number of tables and figures, abstract structure etc.) and it can be helpful to tailor your writing to the intended audience.\nAll journals should have their aims and scope stated clearly on their website. Some journals are more focussed on methodology research (e.g. Statistics in Medicine or Diagnostic and Prognostic Research) whilst others are for more clinical or applied research (e.g. International Journal of Clinical Epi, or the British Medical Journal). The JANE tool can be helpful for suggesting appropriate journals, based on either the abstract or keywords. It can also be useful to look at where similar or relevant studies have been published previously, and discuss options with your supervisors or project team.\nAll journals have a rating, called an impact factor, which is based on the average number of citations published articles receive. Whilst some researchers may target journals with a higher impact factor, we recommend you do not base your decision solely on this. Higher impact journals often have long wait times for initial editorial decisions and the peer-review process, and a high impact factor is not necessarily an indicator of higher quality research.\nOnce you have decided on which journal you are going to submit to, make sure you read all the information they provide to authors and follow all the instructions they give you. If you do not, then it may cause delays in the submission process if you are asked to correct anything.\n\n\n\nFollowing reporting guidelines improves the transparency and accuracy of research. There are different guidelines to follow depending on the type of study you are doing. The Enhancing the QUAlity and Transparency Of health Research (EQUATOR) network website lists all the guidelines.\nHere are a few that are most relevant to this group:\n\nThe Transparent Reporting of a multivariable prediction model for Individual Prognosis Or Diagnosis (TRIPOD+AI) statement should be followed for any study developing or evaluating a prediction model. The checklist and explanation of how it was developed can be found here.\nThe The Strengthening the Reporting of Observational Studies in Epidemiology (STROBE) guidelines should be used for any observational study. More info is here.\nThe Preferred Reporting Items for Systematic reviews and Meta-Analyses (PRISMA) should be used for reporting systematic reviews. There is an extension specifically for scoping reviews, which can be found here.\nThe Transparent Reporting of Studies Emulating a Target Trial (TARGET) guidelines have recently been published here.\n\n\n\n\nIf you would like some help with your writing then the academic phrasebank is a great resource. It provides suggestions of phrases and sentence structure for each section of an article or dissertation, for example, how to write critically or report results.\nFor PGR students the university offers training courses for academic writing, which can be found in the training catalogue. The library also offers a few different workshops for writing and referencing, as well as one-to-one consulations.\n\n\n\nDeciding who should be included as an author on an article and the order of the author’s names is important, but can sometimes be a cause for disagreement. It is always a good idea to discuss and agree authorship with your supervisors and collaborators early on in the research process.\nThe University has Authorship guidelines that cover who should (and should not) be included as an author and what the responsibilities are for authors. These are inline with the International Committee of Medical Journal Editors guidance.\nMany journals do have additional guidance on authorship and require the contributions of each author to be stated on a manuscript.\n\n\n\nIn line with the University’s Position Statement on Open Research and Publications Policy (see the Office for Open Research website), researchers are required to publish articles as Open Access. This means that they are available and distributed without any access fees.\nThe University has open access agreements with many journals which means articles can be published Open Access at no cost to the author. If you are submitting an article to a journal not covered by an Open Access agreement then there are funds available to cover costs.\nThere is more information here, about how to access funding, details of Open Access agreements, and how to deposit an accepted manuscript in the Open Access Gateway.\n\n\n\nSome researchers choose to make a pre-print of their articles available before it has been published in a peer-reviewed journal. This can be useful for getting research out into the world promptly, as the peer-review process can take a long time. However, there are some drawbacks so it is advisable to speak to your supervisors or project team if this is something you are considering. medRxivis the most common platform to publish pre-prints, or the Open Science Framework (OSF). Some journals do have the option of making a pre-print available through them when you submit your manuscript for peer-review.\n\n\n\nAll staff and PGR students are expected to set up a Pure profile which contains details of all your qualifications, research interests and research outputs. This will then generate a page for you on the Research Explorer website. For help setting up your PURE profile please see here.\nYou are also required to set up an Open Research and Contributor ID (ORCID) which is a unique identifier that you can use to keep a record of your research activities throughout your career. For more details, including how to claim your ID, see here.",
+    "crumbs": [
+      "Publications and Dissemination"
+    ]
+  },
+  {
+    "objectID": "book/pubs_confs.html#conferences",
+    "href": "book/pubs_confs.html#conferences",
+    "title": "Research Dissemination",
+    "section": "",
+    "text": "Here are some conferences that members of the group frequently attend. Attending a conference for the first time can be daunting, if you are unsure about possibly going then please speak to the group - it’s likely other members are planning to attend!\n\nYoung Statistician’s Meeting - YSM is a great conference specifically for ECRs. It’s a bit more relaxed than some of the bigger conferences and there are options to present your research through posters or short talks. The 2026 conference is being hosted by the University of Cambridge, more info is here.\nRoyal Statistical Society International conference - usually held in the UK in September every year. The programme usually contains a lot of medical statistics content, including prediction modelling. There are numerous ways to present your work, through posters or talks, and good networking opportunities! Details of the 2026 conference which is being held in Bournemouth can be found here.\nInternational Society for Clinical Biostatistics conference - ISCB is an annual conference usually held in Europe in late summer (August/September). The 2026 conference will be in Freiburg, Germany. Details are here.\nMethods for Evaluating Models, Tests & Biomarkers - MEMTAB is usually held every 2 years, in Europe. The next meeting will be in July 2027, in Utrecht. Details are not available yet, but will probably be posted here.\n\n\n\n\nCHAI Fest 2026\n\n\nGroup members at the CHAI Fest conference held at the Manchester Museum in June 2026. From left to right: Miriam, Alex, Molly, Jamie, Siân, Pedro, Steph and Matt.\n\n\n\nMost PGR students will have funding allocated for training and research dissemination. The amount will vary depending on the funder, please speak to your supervisor if you are unsure what your budget is and are unsure how best to use it. For research staff funds may be available through the project grant, speak to your line manager or project PI if you would like to access these.\nThe Doctoral Academy has a conference support fund for PGR students, more information can be found here.\nFor post-doctoral research staff the ResDev team also have a dissemination fund. Details of that are here.\n\n\n\nThe University of Manchester uses the Key Travel platform as its designated travel management system for booking business flights, rail travel, and accommodation. Bookings require prior departmental approval and should not be paid out of pocket unless explicitly authorized. Please contact your supervisor in the first instance on who should be approached.\nIf you need any assistance with booking conferences or travel, please speak to the divisional operations team who can be contacted at i.pops@manchester.ac.uk. You will need the project codes for the team to charge bookings to, ask your line manager or supervisor for these codes.",
+    "crumbs": [
+      "Publications and Dissemination"
     ]
   },
   {
@@ -402,66 +430,59 @@
     "text": "Past Members\n\n\n\n\n\n\n\nName\n\n\n\n\n\nNo matching items"
   },
   {
-    "objectID": "members/glenmartin/index.html",
-    "href": "members/glenmartin/index.html",
-    "title": "Glen Martin",
+    "objectID": "news/2026-01-01-news1/index.html",
+    "href": "news/2026-01-01-news1/index.html",
+    "title": "News 1",
     "section": "",
-    "text": "Biography\nGlen is a Senior Lecturer in Health Data Science in the Division of Informatics, Imaging and Data Science at the University of Manchester. His research focuses on developing methodology for clinical risk prediction models, with expertise in multivariate modelling, missing data, and model translation. He holds a PhD in Health Data Science and is a Chartered Statistics. He is Programme Director for the MSc Health Informatics programme, jointly delivered with UCL, and is a Fellow of the Higher Education Academy.\n\n\nPublications\n\nLoading publications from ORCID…"
+    "text": "News 1"
   },
   {
-    "objectID": "members/stephriley/index.html",
-    "href": "members/stephriley/index.html",
-    "title": "Steph Riley",
+    "objectID": "news/index.html",
+    "href": "news/index.html",
+    "title": "Lab News",
     "section": "",
-    "text": "Biography\nSteph’s research interests are in causal inference methods to address generalisability and transportability problems in treatment effect estimation and prediction models, to support fair and equitable healthcare. She also enjoys survival analysis, particularly competing risks and multistate models.\n\n\nPublications\n\nLoading publications from ORCID…"
+    "text": "Post-doc Appreciation Week\n      \n      \n      \n      Sep 24, 2026\n      \n      \n      \n        \n          \n            \n              News\n            \n          \n        \n      \n\n    \n  \n  \n    \n    \n      \n      \n        News 6\n      \n      \n      \n      Jan 6, 2026\n      \n      \n      \n        \n          \n            \n              News\n            \n          \n        \n      \n\n    \n  \n  \n    \n    \n      \n      \n        News 5\n      \n      \n      \n      Jan 5, 2026\n      \n      \n      \n        \n          \n            \n              News\n            \n          \n        \n      \n\n    \n  \n  \n    \n    \n      \n      \n        Job posting expiring in 2027\n      \n      \n      \n      Jan 5, 2026\n      \n      \n      \n        \n          \n            \n              Jobs\n            \n          \n        \n      \n\n    \n  \n  \n    \n    \n      \n      \n        News 4\n      \n      \n      \n      Jan 4, 2026\n      \n      \n      \n        \n          \n            \n              News\n            \n          \n        \n      \n\n    \n  \n  \n    \n    \n      \n      \n        News 3\n      \n      \n      \n      Jan 3, 2026\n      \n      \n      \n        \n          \n            \n              News\n            \n          \n            \n              Impact\n            \n          \n        \n      \n\n    \n  \n  \n    \n    \n      \n      \n        News 2\n      \n      \n      \n      Jan 2, 2026\n      \n      \n      \n        \n          \n            \n              News\n            \n          \n        \n      \n\n    \n  \n  \n    \n    \n      \n      \n        News 1\n      \n      \n      \n      Jan 1, 2026\n      \n      \n      \n        \n          \n            \n              News\n            \n          \n            \n              Funding\n            \n          \n        \n      \n\n    \n  \n  \n\n\nNo matching items"
   },
   {
-    "objectID": "members/sianbladdon/index.html",
-    "href": "members/sianbladdon/index.html",
-    "title": "Siân Bladon",
+    "objectID": "news/2026-01-06-news6/index.html",
+    "href": "news/2026-01-06-news6/index.html",
+    "title": "News 6",
     "section": "",
-    "text": "Biography\nSian is an experienced health data scientist currently working as a Lecturer in Health Data Sciences within the Division of Informatics, Imaging and Data Science at the University of Manchester. Sian previously worked as a PDRA on the CONNECT project, developing a clinical prediction model to predict the risk of relapse in people with psychosis using data collected through wearable devices and smartphones. Her current research interests focus on addressing the challenges of incorporating high-frequency data (e.g. from wearable devices) into clinical prediction models. Sian teaches primarily on the MSc Health Data Science and Health Informatics programmes, contributing to teaching on statistics, data visualisation, data linkage and digital transformation.\n\n\nPublications\n\nLoading publications from ORCID…"
+    "text": "Hello\n\n\nNews 6"
   },
   {
-    "objectID": "members/phcavelar/index.html",
-    "href": "members/phcavelar/index.html",
-    "title": "Pedro Henrique da Costa Avelar",
+    "objectID": "news/2026-01-06-news6/index.html#subsubtitle",
+    "href": "news/2026-01-06-news6/index.html#subsubtitle",
+    "title": "News 6",
     "section": "",
-    "text": "Biography\nPedro is interested in developing causal representation learning and neuro-symbolic methods to improve the generalisability, fairness, and interpretability of medical AI. His past experience includes using Graph Neural Networks and Transformers for symbolic problems and computer vision, multi-omics integration and prior-knowledge-based omics analysis, and analysing biases in Machine Translation.\n\n\nPublications\n\nLoading publications from ORCID…"
+    "text": "News 6"
   },
   {
-    "objectID": "members/jamiepaterson/index.html",
-    "href": "members/jamiepaterson/index.html",
-    "title": "Jamie Paterson",
+    "objectID": "news/2026-01-03-news3/index.html",
+    "href": "news/2026-01-03-news3/index.html",
+    "title": "News 3",
     "section": "",
-    "text": "Biography\nJamie is a PDRA in Medical Statistics at the University of Manchester, currently working on the RESHAPE-CARE project, using causal inference methods to contribute to the development of a systems-engineering approach to modelling patients with multiple long-term health conditions. He completed a PhD in Mathematical Biology, where his research focused on developing a within-host model of inhalational anthrax infection and modelling the epidemiology of viral infection in a closed population. As a qualified teacher, Jamie has a particular interest in the development and delivery of high-quality teaching, and in exploring how education can adapt to the opportunities and challenges presented by the growing use of AI.\n\n\nPublications\n\nLoading publications from ORCID…"
+    "text": "News 3"
   },
   {
-    "objectID": "members/miriamngarega/index.html",
-    "href": "members/miriamngarega/index.html",
-    "title": "Miriam Ngarega",
+    "objectID": "news/2016-09-24-PAW/index.html",
+    "href": "news/2016-09-24-PAW/index.html",
+    "title": "Post-doc Appreciation Week",
     "section": "",
-    "text": "Biography\nMiriam is an epidemiologist by training, with an interest in making better use of clinical trials to generate patient-relevant and actionable evidence. Her PhD research focuses on how routine data can be used to provide evidence on outcomes that cannot be evaluated in trials and to improve the statistical efficiency of clinical trials.\n\n\nPublications\n\nLoading publications from ORCID…"
+    "text": "To celebrate Post-Doc Appreciation Week 2026 we are shining a spotlight on some of the fantastic PDRAs we have working in the group!"
   },
   {
-    "objectID": "members/yusufyildiz/index.html",
-    "href": "members/yusufyildiz/index.html",
-    "title": "Yusuf Yildiz",
-    "section": "",
-    "text": "Biography\nYusuf is a PhD student specialising in clinical prediction using electronic health records, with a focus on transformer-based models and large language models for healthcare applications. His research interests includes digital health, machine learning, and the responsible use of artificial intelligence in clinical decision-making.\n\n\nPublications\n\nLoading publications from ORCID…"
+    "objectID": "news/2016-09-24-PAW/index.html#steph-riley---pdra",
+    "href": "news/2016-09-24-PAW/index.html#steph-riley---pdra",
+    "title": "Post-doc Appreciation Week",
+    "section": "Steph Riley - PDRA",
+    "text": "Steph Riley - PDRA\n\n\n\nSteph Riley\n\n\nMy research interests sit at the intersection of statistics, causality, and healthcare. My work largely focuses on generalisability and transportability. One aspect of this is extrapolating findings from randomised controlled trials to broader populations, helping to bridge the gap between trial and real-world evidence. Another focuses on prediction models and ensuring they remain accurate and useful once deployed in the healthcare system.\nA common theme across my research is an interest in where methods are useful in practice. Recently, this interest has led me to explore researchers’ attitudes towards applying causal inference methods, and the barriers to their wider adoption in healthcare research.\nOne of the things I enjoy most about my job is being part of this research group. The group creates a great environment for learning and collaboration, with both a supportive and fun vibe. There is always someone around for a chat, whether that’s to talk through your research, think through a problem, or just a catch up over coffee."
   },
   {
-    "objectID": "members/fangyuanzhang/index.html",
-    "href": "members/fangyuanzhang/index.html",
-    "title": "Fangyuan Zhang",
-    "section": "",
-    "text": "Biography\nHello\n\n\nPublications\n\nLoading publications from ORCID…"
-  },
-  {
-    "objectID": "members/samanthapacynko/index.html",
-    "href": "members/samanthapacynko/index.html",
-    "title": "Samantha Pacynko",
-    "section": "",
-    "text": "Biography\nSam is a research assistant in the Division of Informatics, Imaging and Data Science at the University of Manchester. She is currently funded by the National Institute for Health and Care Research (NIHR) Predoctoral Award to enable her to undertake a programme of training and development to advance her career as an aspiring methodologist with a focus on prediction modelling.\n\n\nPublications\n\nLoading publications from ORCID…"
+    "objectID": "news/2016-09-24-PAW/index.html#alex-pate---research-fellow",
+    "href": "news/2016-09-24-PAW/index.html#alex-pate---research-fellow",
+    "title": "Post-doc Appreciation Week",
+    "section": "Alex Pate - Research Fellow",
+    "text": "Alex Pate - Research Fellow\n\n\n\nAlex Pate\n\n\nI work on multi-outcome prediction, model evaluation and model stability. I think more time should be spent translating methods into practice, and therefore I am maintaining R packages to help support people working with routinely collected data, and evaluating the performance of multi-state models. I like working in the One Prediction group because of the fabulous people and impactful work."
   }
 ]
