@@ -12,58 +12,54 @@ listing:
   page-size: 4
 ---
 
-The Prediction Modelling and Causal Inference research group (aka One Prediction) is based within the [Division of Informatics, Imaging and Data Sciences](https://research.manchester.ac.uk/en/organisations/division-of-informatics-imaging-data-sciences/) at the University of Manchester. The group is led by Professor Matthew Sperrin, Dr Glen Martin, Dr David Jenkins, and Dr Siân Bladon. 
 
+
+## Introduction to the Group
+
+
+The Prediction Modelling and Causal Inference research group (aka One Prediction) is based within the [Division of Informatics, Imaging and Data Sciences](https://research.manchester.ac.uk/en/organisations/division-of-informatics-imaging-data-sciences/) at the University of Manchester. The group is led by Professor Matthew Sperrin, Dr Glen Martin, Dr David Jenkins, and Dr Siân Bladon.
 
 ![Group leaders from left to right: Glen, Siân, Dave & Matt](4WF.JPEG){height="5in"}
 
 
+The group's research is focused around clinical prediction modelling and causal inference. There are 5 main themes which are summarised in the graphic below.
 
 
-The group's research is focused around clinical prediction modelling and causal inference. There are 5 main themes which are summarised in the graphic below. 
-
-
-
-![Research themes](group-map.png){height="6in"}
-
+![Research themes](group-map.png){height="6in"}\
 
 
 
 Here are some examples of projects the group is currently involved with:
 
--  [CONNECT](https://www.connectdigitalstudy.com/) - CONNECT is a large Wellcome funded study aiming to integrate active symptom monitoring data from a self-monitoring app and passive sensing data from smartphones and wearables into a risk prediction algorithm for estimating short-term relapse risk in individuals with psychosis. As well as developing the main model another aim of the project is to explore how adaptive sampling could improve engagement with remote monitoring.
+-   [CONNECT](https://www.connectdigitalstudy.com/) - CONNECT is a large Wellcome funded study aiming to integrate active symptom monitoring data from a self-monitoring app and passive sensing data from smartphones and wearables into a risk prediction algorithm for estimating short-term relapse risk in individuals with psychosis. As well as developing the main model another aim of the project is to explore how adaptive sampling could improve engagement with remote monitoring.
 
--  [RENAL-HF](https://www.repository.cam.ac.uk/items/f50cdf59-d91d-427a-9690-224a3235793a) -  RENAL-HF is an NIHR funded project aiming to develop predictive risk models to support personalized renal function monitoring and treatment in patients with heart failure in primary care.
+-   [RENAL-HF](https://www.repository.cam.ac.uk/items/f50cdf59-d91d-427a-9690-224a3235793a) - RENAL-HF is an NIHR funded project aiming to develop predictive risk models to support personalized renal function monitoring and treatment in patients with heart failure in primary care.
 
--  [Causality in Healthcare AI Hub](https://www.chai.ac.uk/) - the CHAI network is funded by the EPSRC, with a mission to conduct ground breaking research, drive innovation, and build a community for co-creation.
+-   [Causality in Healthcare AI Hub](https://www.chai.ac.uk/) - the CHAI network is funded by the EPSRC, with a mission to conduct ground breaking research, drive innovation, and build a community for co-creation.
 
--  [Cancer Data Driven Detection](https://www.cd3.org.uk/) - CD3 is a national research programme aiming to use the UK’s population-scale multimodal data to deepen understanding of who is most at risk of developing cancer.  
-  
-    
-      
-      
+-   [Cancer Data Driven Detection](https://www.cd3.org.uk/) - CD3 is a national research programme aiming to use the UK’s population-scale multimodal data to deepen understanding of who is most at risk of developing cancer.
+
+
+
 As well as applied research the group also has a strong track record for methodological research and creating open-source R packages for other researchers to use. Here are a few recent examples of the methodological work being conducted in the group:
 
--  [Comparison of methods for incorporating related data when developing clinical prediction models: a simulation study.](https://pubmed.ncbi.nlm.nih.gov/42657915/) - work conducted by PhD student Haya Elayan, supervised by Dave, Glen & Matt.
+-   [Comparison of methods for incorporating related data when developing clinical prediction models: a simulation study.](https://pubmed.ncbi.nlm.nih.gov/42657915/) - work conducted by PhD student Haya Elayan, supervised by Dave, Glen & Matt.
 
--  [Incorporating missing data considerations into sample size calculations for developing clinical prediction models](https://arxiv.org/abs/2605.07312)
+-   [Incorporating missing data considerations into sample size calculations for developing clinical prediction models](https://arxiv.org/abs/2605.07312)
 
--  [calibmsm: An R package for calibration plots of the transition probabilities in a multistate model](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0320504)
+-   [calibmsm: An R package for calibration plots of the transition probabilities in a multistate model](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0320504)
 
-
--  [Agreement between heuristic shrinkage factor and optimal shrinkage factors in logistic regression for risk prediction: a simulation study across different sample sizes and settings](https://link.springer.com/article/10.1186/s41512-026-00222-1)
-
+-   [Agreement between heuristic shrinkage factor and optimal shrinkage factors in logistic regression for risk prediction: a simulation study across different sample sizes and settings](https://link.springer.com/article/10.1186/s41512-026-00222-1)
 
 
 
-There are currently around 22 members of the group, including pre-doctoral fellows, PhD students, post-doc research associates and research fellows. The members page has more information about each person in the group, including their research interests and publications. 
-
-
+There are currently around 22 members of the group, including pre-doctoral fellows, PhD students, post-doc research associates and research fellows. The members page has more information about each person in the group, including their research interests and publications.
 
 ![Group members at the 2025 MEMTAB conference at the University of Birmingham](members-photo.jpg){height="5in"}
 
 
+
 ## What's been happening recently
 
-:::{#news-listing}
+::: {#news-listing}
 :::
