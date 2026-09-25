@@ -1,7 +1,7 @@
 ---
 title: "Jamie Paterson"
 subtitle: "Resarch Associate in Medical Statistics"
-image: https://avatars.githubusercontent.com/u/0000000?v=4&size=64
+image: photo.jpg
 about:
   template: jolla
   links:
