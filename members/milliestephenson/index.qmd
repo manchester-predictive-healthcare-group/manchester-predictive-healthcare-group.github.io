@@ -1,0 +1,28 @@
+---
+title: "Millie Stephenson"
+subtitle: "PhD Student"
+image: photo.jpg
+about:
+  template: jolla
+  links:
+    - icon: mortarboard
+      text: LinkedIn
+      href: https://www.linkedin.com/in/ms3210
+---
+
+### Biography
+Millie is a PhD student focussing on the fairness of cancer risk prediction models as part of the Cancer Research UK CD3 programme. Her research explores differences in risk predictions across population subgroups. Her research interests include racial and ethnic differences in early diagnosis, women’s health and the gender data gap.
+
+### Publications
+::: {#publications-list}
+*Loading publications from ORCID...*
+:::
+
+<script src="/js/orcid.js"></script>
+<script>
+  document.addEventListener("DOMContentLoaded", function() {
+    // Pass your specific ORCID to your external function
+    loadOrcidPublications("0000-0000-0000-0000", "publications-list");
+  });
+</script>
+

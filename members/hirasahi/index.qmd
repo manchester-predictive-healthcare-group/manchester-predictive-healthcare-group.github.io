@@ -1,0 +1,34 @@
+---
+title: "Hira Sahi"
+subtitle: "Research Assistant"
+image: https://avatars.githubusercontent.com/u/0000000?v=4&size=64
+about:
+  template: jolla
+  links:
+    - icon: mortarboard
+      text: ORCID
+      href: https://orcid.org/0009-0005-4802-5746
+    - icon: mortarboard
+      text: LinkedIn
+      href: https://www.linkedin.com/in/hirasahii/
+    - icon: mortarboard
+      text: GitHub
+      href: https://github.com/hirasahii
+---
+
+### Biography
+Hira is a Research Assistant in the Division of Informatics, Imaging and Data Science at the University of Manchester. She is funded by the National Institute for Health and Care Research (NIHR) through a Predoctoral Award, which will support a programme of research, specialist training and development in clinical prediction modelling. Her research interests focus on missing data methodology, model development and validation, and the analysis of routinely collected health data. She aspires to become a health research methodologist and undertake doctoral research to improve the reliability and clinical usefulness of prediction models.
+
+### Publications
+::: {#publications-list}
+*Loading publications from ORCID...*
+:::
+
+<script src="/js/orcid.js"></script>
+<script>
+  document.addEventListener("DOMContentLoaded", function() {
+    // Pass your specific ORCID to your external function
+    loadOrcidPublications("0009-0005-4802-5746", "publications-list");
+  });
+</script>
+
