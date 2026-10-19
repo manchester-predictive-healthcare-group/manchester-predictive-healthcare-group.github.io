@@ -16,7 +16,7 @@ website:
       - href: members.qmd
         text: Members
       - href: book/
-        text: Lab Book
+        text: Group Handbook
   sidebar:
     - id: handbook
       header: |

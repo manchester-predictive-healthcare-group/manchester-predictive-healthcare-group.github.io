@@ -1,5 +1,5 @@
 ---
-title: "Lab Members"
+title: "Group Members"
 listing:
   - id: "members-listing"
     contents: members
@@ -13,7 +13,7 @@ listing:
     page-size: 4294967296
 ---
 
-![Group members at the 2026 DIIDS Away Day. Back row:  Glen, Siân, Dave & Matt. Front row: Molly, Sam, Steph and Ziyi](iids_away_day.JPEG)
+![Group members at the 2026 DIIDS Away Day. Back row:  Glen, Siân, Dave and Matt. Front row: Molly, Sam, Steph and Ziyi](iids_away_day.JPEG)
 
 ## Current Members
 
