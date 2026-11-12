@@ -16,5 +16,5 @@ The University provides Research Data Storage (RDS) through the Research IT serv
 
 ### High Performance Computing
 
-Research IT also provide High Performance Computing (HPC) services, for projects that may be computationally intensive. There are two main services, the [CSF](https://ri.itservices.manchester.ac.uk/csf3/) and [iCSF](https://ri.itservices.manchester.ac.uk/icsf/).
+Research IT also provide High Performance Computing (HPC) services, for projects that may be computationally intensive. There are two main services, the [CSF3](https://ri.itservices.manchester.ac.uk/csf3/) and [iCSF](https://ri.itservices.manchester.ac.uk/icsf/).
 They do offer training courses on how to use these, details can be found [here](https://www.staffnet.manchester.ac.uk/talent-development/digital-capabilities/uni-systems/research-computing/). If you are having issues using these services then you should contact Research IT through the Connect portal, or they hold online [drop-in sessions every other Wednesday](https://research-it.manchester.ac.uk/events/).
