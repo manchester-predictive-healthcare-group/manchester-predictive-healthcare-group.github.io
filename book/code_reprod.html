@@ -184,7 +184,17 @@ ul.task-list li input[type="checkbox"] {
     <h2 id="toc-title">On this page</h2>
    
   <ul>
-  <li><a href="#open-and-reproducible-research" id="toc-open-and-reproducible-research" class="nav-link active" data-scroll-target="#open-and-reproducible-research">Open and Reproducible Research</a></li>
+  <li><a href="#open-and-reproducible-research" id="toc-open-and-reproducible-research" class="nav-link active" data-scroll-target="#open-and-reproducible-research">Open and Reproducible Research</a>
+  <ul class="collapse">
+  <li><a href="#preliminaries" id="toc-preliminaries" class="nav-link" data-scroll-target="#preliminaries">Preliminaries</a></li>
+  <li><a href="#organise" id="toc-organise" class="nav-link" data-scroll-target="#organise">Organising your code</a></li>
+  <li><a href="#writing-readable-code" id="toc-writing-readable-code" class="nav-link" data-scroll-target="#writing-readable-code">Writing readable code</a></li>
+  <li><a href="#writing-reproducible-code" id="toc-writing-reproducible-code" class="nav-link" data-scroll-target="#writing-reproducible-code">Writing reproducible code</a></li>
+  <li><a href="#version-control-and-github" id="toc-version-control-and-github" class="nav-link" data-scroll-target="#version-control-and-github">Version control and GitHub</a></li>
+  <li><a href="#recording-software-dependencies" id="toc-recording-software-dependencies" class="nav-link" data-scroll-target="#recording-software-dependencies">Recording software dependencies</a></li>
+  <li><a href="#managing-and-sharing-research-data-and-code" id="toc-managing-and-sharing-research-data-and-code" class="nav-link" data-scroll-target="#managing-and-sharing-research-data-and-code">Managing and sharing research data and code</a></li>
+  <li><a href="#health-data-science-msc-slides-and-other-links" id="toc-health-data-science-msc-slides-and-other-links" class="nav-link" data-scroll-target="#health-data-science-msc-slides-and-other-links">Health Data Science MSc slides and other links</a></li>
+  </ul></li>
   </ul>
 </nav>
     </div>
@@ -196,9 +206,84 @@ ul.task-list li input[type="checkbox"] {
 
 <section id="open-and-reproducible-research" class="level1">
 <h1>Open and Reproducible Research</h1>
-<p>This page will contain information about how we can conduct our research in an open and reproducible manner. This will include using Github for version control and code sharing, registering study protocols and analysis plans online prior to starting a new research project, and the use of reporting guidelines.</p>
+<p>This page contains information about how we can conduct our research in an open and reproducible manner.</p>
+<section id="preliminaries" class="level3">
+<h3 class="anchored" data-anchor-id="preliminaries">Preliminaries</h3>
+<p>Open and reproducible research practices make it easier for other people to understand, check and build upon our work. They also make it easier for us to return to our own projects after time away. Reproducibility should therefore be considered throughout a project, rather than only when preparing code and results for publication.</p>
+<p>The <a href="https://www.openresearch.manchester.ac.uk/">University of Manchester Office for Open Research</a> provides guidance, training and support covering open research and research data management, and <a href="https://www.openresearch.manchester.ac.uk/research-services/open-access/">support for open access publication</a>.</p>
+<p>Many of us in the prediction modelling group are R users, links to resources may therefore be a little R-centric. There are stata and python users among us, please feel free to add relevant resources here.</p>
+<p>It may not always be practical to follow all these suggestions. Consider what is appropriate for the project at hand. Code underpinning a model intended for future clinical use will have different reproducibility requirements from exploratory code used to investigate a new idea. If new to coding, or feeling overwhelmed by the breadth of suggestions (and opinions!) on best practice, we recommend making incremental improvements to coding practice, prioritising the changes that will be most valuable for your current project.</p>
+<p>Not convinced it’s worth the effort? Take a look at this paper: <a href="https://doi.org/10.1186/s13059-015-0850-7">Five selfish reasons to work reproducibly</a>.</p>
+</section>
+<section id="organise" class="level3">
+<h3 class="anchored" data-anchor-id="organise">Organising your code</h3>
+<p>Research projects should have a clear and consistent folder structure. Code, data and outputs should be kept in suitable subfolders. Data should be stored in approved locations and should not normally be committed to public code repositories.</p>
+<p>Where possible:</p>
+<ul>
+<li>Use relative rather than absolute file paths. In R, the <a href="https://here.r-lib.org/"><code>here</code> package</a> can help create paths relative to the project directory.</li>
+<li>Use an RStudio Project, or an equivalent project-based workflow, rather than relying on <code>setwd()</code>. Avoid hard-coded file paths and other settings that will differ between computers or users.</li>
+<li>Separate data preparation, analysis and presentation code into appropriately named scripts.</li>
+<li>Number scripts where they need to be run in a particular order, for example <code>01_prepare_data.R</code> and <code>02_fit_models.R</code>.</li>
+<li>Avoid creating multiple files with names such as <code>analysis_final.R</code>, <code>analysis_final2.R</code> and <code>analysis_really_final.R</code>. Use version control instead.</li>
+<li>Every project should include a <code>README</code> explaining its purpose, structure, software requirements and how to reproduce the main results.</li>
+</ul>
+</section>
+<section id="writing-readable-code" class="level3">
+<h3 class="anchored" data-anchor-id="writing-readable-code">Writing readable code</h3>
+<p>Code is read more often than it is written. It should therefore be understandable to someone who was not involved in writing it, including your future self.</p>
+<p>For R code, a good starting point is the <a href="https://style.tidyverse.org/">tidyverse style guide</a>, however there are numerous ways to approach coding style. Most important is that you are consistent across your project, and follow as many of these basic principles as possible:</p>
+<ul>
+<li>Use clear and informative names for files, functions and objects.</li>
+<li>Keep formatting and naming conventions consistent.</li>
+<li>Break repeated or logically distinct tasks into functions.</li>
+<li>Comment regularly.</li>
+<li>Use comments to explain the purpose of code or a non-obvious decision, rather than simply repeating what the code does.</li>
+<li>Print progress markers. Useful to monitor progress on scripts that take a long time to finish, or to identify where code failed when running non-interactively [XXX CREATE LINK TO CSF3 GUIDE].</li>
+</ul>
+</section>
+<section id="writing-reproducible-code" class="level3">
+<h3 class="anchored" data-anchor-id="writing-reproducible-code">Writing reproducible code</h3>
+<p>Code should be reproducible for two reasons. The first is so others can implement your code, and if data is publicly available, reproduce your findings. The second is so that you can re-run your work more easily, after the inevitable comments from reviewer 2! To achieve this, consider:</p>
+<ul>
+<li>If repeating a process more than once, ask the question, can I write a function to do this? If repeating a process across multiple scripts, a function is almost always appropriate. This ensures the process is implemented in a consistent manner across multiple programs, and will save time in the future when the process needs to be altered.</li>
+<li>Consider having a <code>functions.R</code> script, which can be <a href="https://www.rdocumentation.org/packages/base/versions/3.6.2/topics/source">sourced</a> in other scripts, to allow functions to be used consistently across your project.</li>
+<li>If using functions across multiple projects consider writing a package, even if just for personal use. <a href="https://r-pkgs.org/">This guide</a> will help with coding practice on a number of levels.</li>
+<li><a href="#organise">Well organised code</a> will often result in code that is easier to re-run. Splitting code across multiple scripts allows only the required elements of the code base to be re-run.</li>
+<li>Run analyses from a clean R session and ensure that each script explicitly loads or creates the objects and packages it requires. This ensures data from previous R sessions does not accidentally get re-used.</li>
+<li>Save relevant objects that have been created during analyses using <code>saveRDS()</code>. These can then be read into subsequent scripts when needed. Avoid <code>save.image()</code>, which will saves the entire workspace, and can result in bloated files saved onto the hard drive.</li>
+<li>Tables, figures and other reported results should be generated directly from the analysis code rather than copied or edited manually. Tools such as <a href="https://quarto.org/">Quarto</a> and <a href="https://rmarkdown.rstudio.com/">R Markdown</a> allow code, results and explanatory text to be combined in a reproducible document. See Posit’s <a href="https://opensource.posit.co/resources/cheatsheets/rmarkdown/">R Markdown Cheatsheet</a> and the <a href="https://pkg.yihui.org/rmarkdown-book/">R Markdown Definitive Guide</a>.</li>
+<li>A <code>README</code> explaining the codes purpose, structure, software requirements is important to reproducibility. For some projects, the <a href="https://books.ropensci.org/targets/"><code>targets</code> package</a> can be used to define and run an analysis pipeline. It records the relationships between data, code and outputs, and reruns only the parts of the analysis.</li>
+</ul>
+</section>
+<section id="version-control-and-github" class="level3">
+<h3 class="anchored" data-anchor-id="version-control-and-github">Version control and GitHub</h3>
+<p><a href="https://git-scm.com/">Git</a> and <a href="https://github.com/">GitHub</a> can be used for version control, and for sharing and collaboratively developing code. Version control provides a record of what changed, when it changed and who made the change. It also allows previous versions to be recovered without keeping multiple copies of the same script. When working collaboratively, consider using separate branches and pull requests so that changes can be reviewed before they are merged into the main version.</p>
+<p><a href="https://happygitwithr.com/">Happy Git</a> provides ‘opinionated’ instructions on how to: Install Git and get it working smoothly with GitHub, in the shell and in the RStudio IDE; Develop a few key workflows that cover your most common tasks; Integrate Git and GitHub into your daily work with R and R Markdown.</p>
+<p>For many research projects, in particular those run on the University’s high performance computing resources, keeping a live code base updated on Git may be more onerous than is necessary. However, Where legal, ethical and contractual requirements permit, code underpinning published research should be made publicly available in a suitable repository. Often this is required as part of a journal’s guidelines. Many of us publish our code on the Manchester-Predictive-Healthcare-Group GitHub <a href="https://github.com/manchester-predictive-healthcare-group">organisation’s page</a>. To get access please contact Alex, Sian, Glen, Dave or Matt.</p>
+<p>The University’s <a href="https://research-it.manchester.ac.uk/tag/git/">Research IT resources on Git and GitHub</a> provide introductions, training materials and information about accessing GitHub services through the University.</p>
+<p>Remember that GitHub is not an approved location for storing confidential or identifiable research data. Before making a repository public, check the full contents and Git history for data, credentials, local file paths or other potentially sensitive information.</p>
+</section>
+<section id="recording-software-dependencies" class="level3">
+<h3 class="anchored" data-anchor-id="recording-software-dependencies">Recording software dependencies</h3>
+<p>Research code may stop working when packages or other software are updated. Record the software and package versions needed to reproduce an analysis.</p>
+<p>For R projects, the <a href="https://rstudio.github.io/renv/"><code>renv</code> package</a> can create a project-specific package environment and record package versions in a lockfile. Someone receiving the project can then use <code>renv::restore()</code> to install the recorded dependencies.</p>
+<p>Where practical, code should be tested from a clean R session and, ideally, on a different computer or by another person before it is shared.</p>
+</section>
+<section id="managing-and-sharing-research-data-and-code" class="level3">
+<h3 class="anchored" data-anchor-id="managing-and-sharing-research-data-and-code">Managing and sharing research data and code</h3>
+<p>All projects should have a data management plan describing how data and related research materials will be stored, documented, protected, retained and, where appropriate, shared. The University requires data management plans to be created and maintained using <a href="https://dmponline.manchester.ac.uk/?perform_check=false">DMPonline</a>.</p>
+<p>The <a href="https://www.openresearch.manchester.ac.uk/research-services/research-data-management/">University Research Data Management service</a> provides guidance on data management plans, secure storage, documentation, preservation and sharing. Where data or code can be shared publicly, an appropriate repository should be used so that the published version receives a persistent identifier such as a DOI. The University provides an institutional repository through <a href="https://figshare.manchester.ac.uk/">Manchester Figshare</a>.</p>
+<p>Code should be accompanied by enough documentation for another researcher to understand what it does and how to run it. If data cannot be shared, consider providing simulated data, a data dictionary or clear instructions describing the required input structure.</p>
+</section>
+<section id="health-data-science-msc-slides-and-other-links" class="level3">
+<h3 class="anchored" data-anchor-id="health-data-science-msc-slides-and-other-links">Health Data Science MSc slides and other links</h3>
+<ul>
+<li>Slides given on Health Data Science MSc course for <a href="https://sianbladon.github.io/coding_best_practice/slides.html">coding best practice</a>. This contains some simple analysis scripts for a well organised <a href="https://github.com/sianbladon/coding_best_practice/tree/main/HDS%20Coding%20Practice">R project</a>.</li>
+</ul>
+<p>To everyone, please add links to papers, guides and workbooks you have found useful! Disagree with any of the above? Please flag! This is an ongoing book to be updated. More to follow on Open Research.</p>
 
 
+</section>
 </section>
 
 </main> <!-- /main -->
