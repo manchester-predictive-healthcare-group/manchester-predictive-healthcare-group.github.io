@@ -1,6 +1,88 @@
-
 # Open and Reproducible Research
 
-This page will contain information about how we can conduct our research in an open and reproducible manner. This will include using Github for version control and code sharing, registering study protocols and analysis plans online prior to starting a new research project, and the use of reporting guidelines.
+This page contains information about how we can conduct our research in an open and reproducible manner.
 
-   
+### Preliminaries
+
+Open and reproducible research practices make it easier for other people to understand, check and build upon our work. They also make it easier for us to return to our own projects after time away. Reproducibility should therefore be considered throughout a project, rather than only when preparing code and results for publication.
+
+The [University of Manchester Office for Open Research](https://www.openresearch.manchester.ac.uk/) provides guidance, training and support covering open research and research data management, and [support for open access publication](https://www.openresearch.manchester.ac.uk/research-services/open-access/).
+
+Many of us in the prediction modelling group are R users, links to resources may therefore be a little R-centric. There are stata and python users among us, please feel free to add relevant resources here.
+
+It may not always be practical to follow all these suggestions. Consider what is appropriate for the project at hand. Code underpinning a model intended for future clinical use will have different reproducibility requirements from exploratory code used to investigate a new idea. If new to coding, or feeling overwhelmed by the breadth of suggestions (and opinions!) on best practice, we recommend making incremental improvements to coding practice, prioritising the changes that will be most valuable for your current project.
+
+Not convinced it's worth the effort? Take a look at this paper: [Five selfish reasons to work reproducibly](https://doi.org/10.1186/s13059-015-0850-7).
+
+### Organising your code {#organise}
+
+Research projects should have a clear and consistent folder structure. Code, data and outputs should be kept in suitable subfolders. Data should be stored in approved locations and should not normally be committed to public code repositories.
+
+Where possible:
+
+- Use relative rather than absolute file paths. In R, the [`here` package](https://here.r-lib.org/) can help create paths relative to the project directory.
+- Use an RStudio Project, or an equivalent project-based workflow, rather than relying on `setwd()`. Avoid hard-coded file paths and other settings that will differ between computers or users.
+- Separate data preparation, analysis and presentation code into appropriately named scripts.
+- Number scripts where they need to be run in a particular order, for example `01_prepare_data.R` and `02_fit_models.R`.
+- Avoid creating multiple files with names such as `analysis_final.R`, `analysis_final2.R` and `analysis_really_final.R`. Use version control instead.
+- Every project should include a `README` explaining its purpose, structure, software requirements and how to reproduce the main results.
+
+### Writing readable code
+
+Code is read more often than it is written. It should therefore be understandable to someone who was not involved in writing it, including your future self.
+
+For R code, a good starting point is the [tidyverse style guide](https://style.tidyverse.org/), however there are numerous ways to approach coding style. Most important is that you are consistent across your project, and follow as many of these basic principles as possible:
+
+- Use clear and informative names for files, functions and objects.
+- Keep formatting and naming conventions consistent.
+- Break repeated or logically distinct tasks into functions.
+- Comment regularly.
+- Use comments to explain the purpose of code or a non-obvious decision, rather than simply repeating what the code does.
+- Print progress markers. Useful to monitor progress on scripts that take a long time to finish, or to identify where code failed when running non-interactively [XXX CREATE LINK TO CSF3 GUIDE].
+
+### Writing reproducible code
+
+Code should be reproducible for two reasons. The first is so others can implement your code, and if data is publicly available, reproduce your findings. The second is so that you can re-run your work more easily, after the inevitable comments from reviewer 2! To achieve this, consider:
+
+- If repeating a process more than once, ask the question, can I write a function to do this? If repeating a process across multiple scripts, a function is almost always appropriate. This ensures the process is implemented in a consistent manner across multiple programs, and will save time in the future when the process needs to be altered. 
+- Consider having a `functions.R` script, which can be [sourced](https://www.rdocumentation.org/packages/base/versions/3.6.2/topics/source) in other scripts, to allow functions to be used consistently across your project. 
+- If using functions across multiple projects consider writing a package, even if just for personal use. [This guide](https://r-pkgs.org/) will help with coding practice on a number of levels.
+- [Well organised code](#organise) will often result in code that is easier to re-run. Splitting code across multiple scripts allows only the required elements of the code base to be re-run.
+- Run analyses from a clean R session and ensure that each script explicitly loads or creates the objects and packages it requires. This ensures data from previous R sessions does not accidentally get re-used.
+- Save relevant objects that have been created during analyses using `saveRDS()`. These can then be read into subsequent scripts when needed. Avoid `save.image()`, which will saves the entire workspace, and can result in bloated files saved onto the hard drive.
+- Tables, figures and other reported results should be generated directly from the analysis code rather than copied or edited manually. Tools such as [Quarto](https://quarto.org/) and [R Markdown](https://rmarkdown.rstudio.com/) allow code, results and explanatory text to be combined in a reproducible document. See Posit's [R Markdown Cheatsheet](https://opensource.posit.co/resources/cheatsheets/rmarkdown/) and the [R Markdown Definitive Guide](https://pkg.yihui.org/rmarkdown-book/).
+- A `README` explaining the codes purpose, structure, software requirements is important to reproducibility. For some projects, the [`targets` package](https://books.ropensci.org/targets/) can be used to define and run an analysis pipeline. It records the relationships between data, code and outputs, and reruns only the parts of the analysis.
+
+### Version control and GitHub
+
+[Git](https://git-scm.com/) and [GitHub](https://github.com/) can be used for version control, and for sharing and collaboratively developing code. Version control provides a record of what changed, when it changed and who made the change. It also allows previous versions to be recovered without keeping multiple copies of the same script. When working collaboratively, consider using separate branches and pull requests so that changes can be reviewed before they are merged into the main version. 
+
+[Happy Git](https://happygitwithr.com/) provides 'opinionated' instructions on how to: Install Git and get it working smoothly with GitHub, in the shell and in the RStudio IDE; Develop a few key workflows that cover your most common tasks; Integrate Git and GitHub into your daily work with R and R Markdown.
+
+For many research projects, in particular those run on the University's high performance computing resources, keeping a live code base updated on Git may be more onerous than is necessary. However, Where legal, ethical and contractual requirements permit, code underpinning published research should be made publicly available in a suitable repository. Often this is required as part of a journal's guidelines. Many of us publish our code on the Manchester-Predictive-Healthcare-Group GitHub [organisation's page](https://github.com/manchester-predictive-healthcare-group). To get access please contact Alex, Sian, Glen, Dave or Matt.
+
+The University’s [Research IT resources on Git and GitHub](https://research-it.manchester.ac.uk/tag/git/) provide introductions, training materials and information about accessing GitHub services through the University.
+
+Remember that GitHub is not an approved location for storing confidential or identifiable research data. Before making a repository public, check the full contents and Git history for data, credentials, local file paths or other potentially sensitive information.
+
+### Recording software dependencies
+
+Research code may stop working when packages or other software are updated. Record the software and package versions needed to reproduce an analysis.
+
+For R projects, the [`renv` package](https://rstudio.github.io/renv/) can create a project-specific package environment and record package versions in a lockfile. Someone receiving the project can then use `renv::restore()` to install the recorded dependencies.
+
+Where practical, code should be tested from a clean R session and, ideally, on a different computer or by another person before it is shared.
+
+### Managing and sharing research data and code
+
+All projects should have a data management plan describing how data and related research materials will be stored, documented, protected, retained and, where appropriate, shared. The University requires data management plans to be created and maintained using [DMPonline](https://dmponline.manchester.ac.uk/?perform_check=false).
+
+The [University Research Data Management service](https://www.openresearch.manchester.ac.uk/research-services/research-data-management/) provides guidance on data management plans, secure storage, documentation, preservation and sharing. Where data or code can be shared publicly, an appropriate repository should be used so that the published version receives a persistent identifier such as a DOI. The University provides an institutional repository through [Manchester Figshare](https://figshare.manchester.ac.uk/).
+
+Code should be accompanied by enough documentation for another researcher to understand what it does and how to run it. If data cannot be shared, consider providing simulated data, a data dictionary or clear instructions describing the required input structure.
+
+### Health Data Science MSc slides and other links
+
+- Slides given on Health Data Science MSc course for [coding best practice](https://sianbladon.github.io/coding_best_practice/slides.html). This contains some simple analysis scripts for a well organised [R project](https://github.com/sianbladon/coding_best_practice/tree/main/HDS%20Coding%20Practice).
+
+To everyone, please add links to papers, guides and workbooks you have found useful! Disagree with any of the above? Please flag! This is an ongoing book to be updated. More to follow on Open Research.
