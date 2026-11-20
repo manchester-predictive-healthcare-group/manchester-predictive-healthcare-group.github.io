@@ -1,0 +1,9 @@
+---
+title: "Come and work with us!"
+image: profile-pic.jpg
+date: 2026-11-20
+expires: 2027-01-15
+categories: [Jobs]
+---
+
+We are currently recruiting for a research associate in machine learning and/or statistics to work on the CONNECT study. The post will examine methods for adaptive sampling and investigate how to embed such methods within the CONNECT study risk prediction model. For more information about the post and how to apply, please see the advert [here](https://www.jobs.manchester.ac.uk/Job/JobDetail?JobId=46401).
